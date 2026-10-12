@@ -1,0 +1,47 @@
+/* Claus reference geometry, re-skinned with the user's yellow monkey identity. */
+:root {
+  --color-yellow: #ffda00;
+  --color-yellow-light: #ffe86e;
+  --color-yellow-deep: #e8b900;
+  --color-cream: #fff5d6;
+  --color-cream-hover: #fffbee;
+  --color-ink: #11110e;
+  --color-black: #000000;
+  --color-ink-soft: #292824;
+  --color-tan: #ffbf7a;
+  --color-muted: #655d43;
+  --color-border: #dacf9f;
+  --color-overlay: #1a150770;
+  --color-focus: #11110e;
+  --color-error: #982b12;
+  --color-shadow: #6c4c0028;
+  --color-shadow-soft: #6c4c0014;
+  --font-display: 'Bricolage Grotesque', Arial, sans-serif;
+  --font-body: 'Bricolage Grotesque', Arial, sans-serif;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+  --space-12: 48px;
+  --text-xs: 12px;
+  --text-sm: 14px;
+  --text-base: 16px;
+  --text-lg: 18px;
+  --text-xl: 24px;
+  --text-title: 36px;
+  --radius-sm: 10px;
+  --radius-control: 18px;
+  --radius-panel: 24px;
+  --radius-pill: 100px;
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-focus: cubic-bezier(0.2, 0.7, 0.2, 1);
+  --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+  --dur-press: 140ms;
+  --dur-hover: 220ms;
+  --dur-panel: 240ms;
+  --rule-thin: 1px;
+}

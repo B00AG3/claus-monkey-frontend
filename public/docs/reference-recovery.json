@@ -1,0 +1,50 @@
+{
+  "ownerJournal": {
+    "at": "2026-10-12T10:36:50.927Z",
+    "actions": 11,
+    "files": 22,
+    "signedActions": 11,
+    "chains": [
+      1,
+      11155111
+    ],
+    "sha256": "00f1731ff6f771e93c2121582f66aaf5547490537bbe90bbed3b822e832c2739",
+    "readOnly": true,
+    "signaturesVerified": true,
+    "ownerKeyExported": false,
+    "restoreRequiresSharedWalletReconciliation": true
+  },
+  "databaseRecovery": [
+    {
+      "operator": "https://claus-network-api.vercel.app",
+      "capturedAt": "2026-10-12T10:36:53.581Z",
+      "documents": 918,
+      "events": 488,
+      "sha256": "4b3023c1b72114d01c6cad2d85d10cfef54e9542f07d29b7d040a0dddcd9f138",
+      "isolatedSchemaRestore": true,
+      "exactValuesRevisionsEventsAndSequence": true,
+      "oldCredentialDenied": true,
+      "newCredentialReadable": true,
+      "externalEffectsDispatched": false
+    },
+    {
+      "operator": "https://claus-network-portable.vercel.app",
+      "capturedAt": "2026-10-12T10:37:02.490Z",
+      "documents": 47,
+      "events": 11,
+      "sha256": "cf82a31c44e94042997911e6471779d1e71f1ecfbf7ea86e52aa39bb996a31cf",
+      "isolatedSchemaRestore": true,
+      "exactValuesRevisionsEventsAndSequence": true,
+      "oldCredentialDenied": null,
+      "newCredentialReadable": null,
+      "externalEffectsDispatched": false
+    }
+  ],
+  "createdAt": "2026-10-12T10:37:10.531Z",
+  "sha256": "997aac395bb201fb1950c9c763154dd2ae3427f5852c40b7cdf6c5cc4439be0a",
+  "bytes": 8129041,
+  "sourceFiles": 306,
+  "operationalFiles": 169,
+  "encryptedReadback": true,
+  "decryptedReadback": true
+}

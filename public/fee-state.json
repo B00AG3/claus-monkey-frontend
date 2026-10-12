@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "chainId": 1,
+  "token": "0x1b54E762aa34CF6E28E9C082F2848e28E45DA6b8",
+  "hook": "0x37Bfb8AC7C960E558657871D41Ca70E07e7DbfFf",
+  "implementation": "0x19143522eab522bdd1ef0084223434c3de8fee5d",
+  "rewardBoost": {
+    "active": false,
+    "affectsFees": false,
+    "multiplier": 1,
+    "startsAt": "2026-10-09T11:12:23.000Z",
+    "endsAt": "2026-10-10T11:12:23.000Z"
+  },
+  "lpRewards": {
+    "destination": "0xb2304d3de407398de441b147e2c64c7c48daf44e",
+    "totalLiquidity": "4350297760082916431300",
+    "participating": true,
+    "allocationPips": 2000,
+    "emptyParticipationDestination": "project_owner",
+    "ownerBasePips": 13000,
+    "emptyOwnerPips": 15000
+  },
+  "nftStaking": {
+    "active": true,
+    "destination": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+    "startsAt": "2026-10-10T22:41:35.000Z",
+    "totalStaked": "134",
+    "participating": true,
+    "allocationPips": 3500,
+    "emptyParticipationDestination": "project_owner"
+  },
+  "processing": {
+    "nftRewards": true,
+    "combinedBuybacks": true,
+    "separateLiquidity": false,
+    "lpRewards": true,
+    "historicalLiquidity": true,
+    "arenaRetired": true,
+    "privacyRetired": true,
+    "marketWaveWindowSeconds": null
+  },
+  "fees": {
+    "unit": "parts_per_million_of_gross_ETH",
+    "burn": 1500,
+    "liquidity": 2000,
+    "liquidityDestination": "staked_lp_rewards",
+    "wallet": 13000,
+    "fomo": 0,
+    "nft": 3500,
+    "platform": 3000,
+    "project": 20000,
+    "total": 23000
+  },
+  "weather": {
+    "active": false,
+    "mode": "not_active",
+    "observedAt": null,
+    "validUntil": null,
+    "station": "London Heathrow (EGLL)",
+    "provider": "IMD",
+    "maximumAgeSeconds": 21600,
+    "source": "https://aviationweather.gov/api/data/metar?ids=EGLL&format=json"
+  },
+  "blockNumber": 26177091,
+  "blockHash": "0x18633ff29295af4e79224807f7a5125ad54a669199de21310e6166f8aa89cfee",
+  "blockTime": "2026-10-12T14:48:47.000Z",
+  "observedAt": "2026-10-12T14:48:56.681Z",
+  "refreshSeconds": 60
+}

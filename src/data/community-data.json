@@ -1,0 +1,4638 @@
+{
+  "source": "https://claus.si",
+  "captureNote": "Original public collection records with replacement monkey edition artwork. Wallet state is not connected.",
+  "collection": {
+    "config": {
+      "schemaVersion": 1,
+      "status": "deployed",
+      "chainId": 1,
+      "token": "0x1b54E762aa34CF6E28E9C082F2848e28E45DA6b8",
+      "hook": "0x37Bfb8AC7C960E558657871D41Ca70E07e7DbfFf",
+      "collection": "0x80396c7131159eB92E7E84839e51C9887A7A95d9",
+      "market": "0x7832B1B34B8dBec979a44634BC095821c91FFc95",
+      "implementation": "0x31781F2C5B82a4E25d146e0207fD0bf7f5e19192",
+      "art": "0x714fa33983389B44d812bE08Cee2bB30CE968c6E",
+      "startBlock": "26129224",
+      "capacity": 300,
+      "backingTokens": "50000",
+      "rewardPips": 3500,
+      "marketFeeBps": 200
+    },
+    "state": {
+      "totalSupply": 300,
+      "available": "0",
+      "mintOpen": true,
+      "currentEpoch": "6",
+      "epochStart": "1791240095",
+      "totalAccrued": "17027772448084150608",
+      "totalPaid": "17027772448084149638",
+      "requiredBacking": "15000000000000000000000000",
+      "pendingCount": 0,
+      "active": true,
+      "gasPrice": "523483964",
+      "mintPrice": "274242150879563",
+      "epochPot": "0"
+    },
+    "items": [
+      {
+        "id": 1,
+        "owner": "0xaE3c9DFd4DD4700d2382e985Fb348B71b1341B5D",
+        "beneficiary": "0xaE3c9DFd4DD4700d2382e985Fb348B71b1341B5D",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 2,
+        "owner": "0xbd2895Dc008c31ba7b2E9177EbEC4E7B048ACB86",
+        "beneficiary": "0xbd2895Dc008c31ba7b2E9177EbEC4E7B048ACB86",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 3,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x907424Dc6A74BEFC6085ACf069759638060e28b7",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 4,
+        "owner": "0xFf958Cb19c81532ca1e6521f1208Ab2c0C5CA4A6",
+        "beneficiary": "0xFf958Cb19c81532ca1e6521f1208Ab2c0C5CA4A6",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 5,
+        "owner": "0xc5f4B84f925c0643DF6D4af7FD89E4c1426D82c2",
+        "beneficiary": "0xc5f4B84f925c0643DF6D4af7FD89E4c1426D82c2",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 6,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x28c1c00e6E27A2A9a93C1BBEA01396A372aB1A2d",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 7,
+        "owner": "0x87aCe5dCf15c8c69Bd479C7997EA4bFb49AEA7ed",
+        "beneficiary": "0x87aCe5dCf15c8c69Bd479C7997EA4bFb49AEA7ed",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 8,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x3C784E24Ef9f6A5512F278C74CA84474aDf164Fb",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 9,
+        "owner": "0x4123Ffc81579e38dfFf74b75D8BdF21C41E62237",
+        "beneficiary": "0x4123Ffc81579e38dfFf74b75D8BdF21C41E62237",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 10,
+        "owner": "0xFB08f2d92e218450e45D0713f4a47c4925500cFE",
+        "beneficiary": "0xFB08f2d92e218450e45D0713f4a47c4925500cFE",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 11,
+        "owner": "0xe25c4531D0977b37c1E28BC1292bfbb9cf61e951",
+        "beneficiary": "0xe25c4531D0977b37c1E28BC1292bfbb9cf61e951",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 12,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x1b4BF2d6Fc540d243C96C11d808E97522FEE6E1A",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 13,
+        "owner": "0x93f5af632Ce523286e033f0510E9b3C9710F4489",
+        "beneficiary": "0x93f5af632Ce523286e033f0510E9b3C9710F4489",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 14,
+        "owner": "0x5374a6212Dfa48BAF0b13F85BD7A99382bd84e38",
+        "beneficiary": "0x5374a6212Dfa48BAF0b13F85BD7A99382bd84e38",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 15,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x203D1E2637D935AA6EF5ECAc540FEd76c0599369",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 16,
+        "owner": "0x96E4A596087b811D61216684A4D87C688C6cbFFa",
+        "beneficiary": "0x96E4A596087b811D61216684A4D87C688C6cbFFa",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 17,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xb9d1Fb123C779B47269280D0e152Ac32E40b1177",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 18,
+        "owner": "0x26D7B4fe67f4601643304b5023b3CAF3A72E8504",
+        "beneficiary": "0x26D7B4fe67f4601643304b5023b3CAF3A72E8504",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 19,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x0feaf114F65361DfaAF981F2662E3843376dAcbe",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 20,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x76f91DCf2aA8F542A5Baf8AC9B06B074d80D4015",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 21,
+        "owner": "0x6F0B3a8a7D505d91cF8Dd646a98b8149E0D077d3",
+        "beneficiary": "0x6F0B3a8a7D505d91cF8Dd646a98b8149E0D077d3",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 22,
+        "owner": "0xfC653b43aeC53ab4a8866aF3Ec154a28AcE32e52",
+        "beneficiary": "0xfC653b43aeC53ab4a8866aF3Ec154a28AcE32e52",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 23,
+        "owner": "0x1cb66FC8891E1758964c891BC17a9a8CdD25E7B0",
+        "beneficiary": "0x1cb66FC8891E1758964c891BC17a9a8CdD25E7B0",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 24,
+        "owner": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "beneficiary": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 25,
+        "owner": "0x0241dfB8165Dac08d3F78cb931cf46D110f16733",
+        "beneficiary": "0x0241dfB8165Dac08d3F78cb931cf46D110f16733",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 26,
+        "owner": "0xd54AA07a5E77bcc0269e2F1a830139Fb72D818A9",
+        "beneficiary": "0xd54AA07a5E77bcc0269e2F1a830139Fb72D818A9",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 27,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x1Ab48085aC8f27403e344A52e6A18B8C78b2C308",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 28,
+        "owner": "0xDE78E8AB12511CEB1e46D23c4e7072a318D52c1D",
+        "beneficiary": "0xDE78E8AB12511CEB1e46D23c4e7072a318D52c1D",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 29,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xF086049c5cBE85DF041C79E8877b92D614A8F854",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 30,
+        "owner": "0x64bdDab5f13A99576FcA6747f0aA205422C5F708",
+        "beneficiary": "0x64bdDab5f13A99576FcA6747f0aA205422C5F708",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 31,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x76f91DCf2aA8F542A5Baf8AC9B06B074d80D4015",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 32,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x28c1c00e6E27A2A9a93C1BBEA01396A372aB1A2d",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 33,
+        "owner": "0xaEA8C6444a5E4EfD738a6eC51F3D0ED0928C110B",
+        "beneficiary": "0xaEA8C6444a5E4EfD738a6eC51F3D0ED0928C110B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 34,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x4aC4a33101aBB2AA21167De2b881429B915818a3",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 35,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x7665C425b5F3A0249644024bB32a179Ab2D5E0a2",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 36,
+        "owner": "0x860993DCB240bD1e60F29F1887164F15FfB6a049",
+        "beneficiary": "0x860993DCB240bD1e60F29F1887164F15FfB6a049",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 37,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x0feaf114F65361DfaAF981F2662E3843376dAcbe",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 38,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x7665C425b5F3A0249644024bB32a179Ab2D5E0a2",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 39,
+        "owner": "0x623CDe603B1cB5bbb6b185F9d76e811017C0282D",
+        "beneficiary": "0x623CDe603B1cB5bbb6b185F9d76e811017C0282D",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 40,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xE2FB7D06BBF1e83E899f15b90eaacaF90B0e0A5F",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 41,
+        "owner": "0x4017180580b143dD00a909459cCe91a7C5f2953E",
+        "beneficiary": "0x4017180580b143dD00a909459cCe91a7C5f2953E",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 42,
+        "owner": "0xFf958Cb19c81532ca1e6521f1208Ab2c0C5CA4A6",
+        "beneficiary": "0xFf958Cb19c81532ca1e6521f1208Ab2c0C5CA4A6",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 43,
+        "owner": "0xaf4b91a02cEfcEa9304f8c16A74e4586Ac619B9D",
+        "beneficiary": "0xaf4b91a02cEfcEa9304f8c16A74e4586Ac619B9D",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 44,
+        "owner": "0x834cD5A02813Eb6D7ae06E85bef4552a1FAF51de",
+        "beneficiary": "0x834cD5A02813Eb6D7ae06E85bef4552a1FAF51de",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 45,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xE226c3D455BE157c544AD62Fda8D0728f12c3A5D",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 46,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x4aC4a33101aBB2AA21167De2b881429B915818a3",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 47,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x28c1c00e6E27A2A9a93C1BBEA01396A372aB1A2d",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 48,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 49,
+        "owner": "0x7B8a6e7777793614F27799199E32E80F03d18dBe",
+        "beneficiary": "0x7B8a6e7777793614F27799199E32E80F03d18dBe",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 50,
+        "owner": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "beneficiary": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 51,
+        "owner": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "beneficiary": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 52,
+        "owner": "0x835A27CE401E19199DFbF777AaA6B8F435c59003",
+        "beneficiary": "0x835A27CE401E19199DFbF777AaA6B8F435c59003",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 53,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x28c1c00e6E27A2A9a93C1BBEA01396A372aB1A2d",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 54,
+        "owner": "0x1cb66FC8891E1758964c891BC17a9a8CdD25E7B0",
+        "beneficiary": "0x1cb66FC8891E1758964c891BC17a9a8CdD25E7B0",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 55,
+        "owner": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "beneficiary": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 56,
+        "owner": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "beneficiary": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 57,
+        "owner": "0xFf958Cb19c81532ca1e6521f1208Ab2c0C5CA4A6",
+        "beneficiary": "0xFf958Cb19c81532ca1e6521f1208Ab2c0C5CA4A6",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 58,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x3cA779B6DCA46E41fB96B585CbFc25FF88223509",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 59,
+        "owner": "0xAaA2Cc267Cd3747f33984a81a6F28dE1d460897A",
+        "beneficiary": "0xAaA2Cc267Cd3747f33984a81a6F28dE1d460897A",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 60,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x2862B15f218440730BcBEEEd8649DEe053431939",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 61,
+        "owner": "0xb51ff2F65B935142aab32aBEfa1C0E29A4161D31",
+        "beneficiary": "0xb51ff2F65B935142aab32aBEfa1C0E29A4161D31",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 62,
+        "owner": "0x0dA62d394CDF09986e43a8C6C3B6125C51D903CD",
+        "beneficiary": "0x0dA62d394CDF09986e43a8C6C3B6125C51D903CD",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 63,
+        "owner": "0x944fdeA9d4956ce673C7545862cefCcad6Ee1B04",
+        "beneficiary": "0x944fdeA9d4956ce673C7545862cefCcad6Ee1B04",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 64,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x38d7274DC48a106320bFC023BeF09ac4de7DE13C",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 65,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xda714BFaFBC2b139bF6e91D9809FAc5A104a9798",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 66,
+        "owner": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "beneficiary": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 67,
+        "owner": "0x2a171aa5CE4f1E7774733A692804F5Da52A896d3",
+        "beneficiary": "0x2a171aa5CE4f1E7774733A692804F5Da52A896d3",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 68,
+        "owner": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "beneficiary": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 69,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x79B8858233BB5fD0e635cb7B40dBe868eb106602",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 70,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x7665C425b5F3A0249644024bB32a179Ab2D5E0a2",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 71,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x28c1c00e6E27A2A9a93C1BBEA01396A372aB1A2d",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 72,
+        "owner": "0xA235F5d5eD149b053f58f1015DD3ab92D651Df5b",
+        "beneficiary": "0xA235F5d5eD149b053f58f1015DD3ab92D651Df5b",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 73,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x0feaf114F65361DfaAF981F2662E3843376dAcbe",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 74,
+        "owner": "0x99999990D598B918799f38163204Bbc30611B6b6",
+        "beneficiary": "0x99999990D598B918799f38163204Bbc30611B6b6",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 75,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x3dA69E3E0Ff8730EEa3A8fDaC7Ab54A91BB78639",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 76,
+        "owner": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "beneficiary": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 77,
+        "owner": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "beneficiary": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 78,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xdB585820d3B56dBE452b2D7774E7852DBD0976Ea",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 79,
+        "owner": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "beneficiary": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 80,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xD8470Caeb17e68534EcdD82Ebb567DdfD90ad680",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 81,
+        "owner": "0x7B8a6e7777793614F27799199E32E80F03d18dBe",
+        "beneficiary": "0x7B8a6e7777793614F27799199E32E80F03d18dBe",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 82,
+        "owner": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "beneficiary": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 83,
+        "owner": "0xd753C8bcDbEF62893Fe2656C4b448f980F3CFD7C",
+        "beneficiary": "0xd753C8bcDbEF62893Fe2656C4b448f980F3CFD7C",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 84,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xdB585820d3B56dBE452b2D7774E7852DBD0976Ea",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 85,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xeA081e8dF182479BC5F5340Ae1a4714177750EfB",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 86,
+        "owner": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "beneficiary": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 87,
+        "owner": "0x2AFeC1C9af7A5494503F8aCFD5C1fdd7D2C57480",
+        "beneficiary": "0x2AFeC1C9af7A5494503F8aCFD5C1fdd7D2C57480",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 88,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x6031ed55F29a1b8eeb49f9BAf7B6897496DC5A62",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 89,
+        "owner": "0x64bdDab5f13A99576FcA6747f0aA205422C5F708",
+        "beneficiary": "0x64bdDab5f13A99576FcA6747f0aA205422C5F708",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 90,
+        "owner": "0xBfFEC90646C130860468e20da2a76492a695114C",
+        "beneficiary": "0xBfFEC90646C130860468e20da2a76492a695114C",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 91,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x0ad14D58c097b0e60170600371E59171c7b1D9Df",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 92,
+        "owner": "0xA6C88571d0028f47ADba983A7240Bf12Af94633e",
+        "beneficiary": "0xA6C88571d0028f47ADba983A7240Bf12Af94633e",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 93,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xF086049c5cBE85DF041C79E8877b92D614A8F854",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 94,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xdB585820d3B56dBE452b2D7774E7852DBD0976Ea",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 95,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xda714BFaFBC2b139bF6e91D9809FAc5A104a9798",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 96,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x28c1c00e6E27A2A9a93C1BBEA01396A372aB1A2d",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 97,
+        "owner": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "beneficiary": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 98,
+        "owner": "0x8923cdff38a43d1fd59d323C35b900047e431BAC",
+        "beneficiary": "0x8923cdff38a43d1fd59d323C35b900047e431BAC",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 99,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x28c1c00e6E27A2A9a93C1BBEA01396A372aB1A2d",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 100,
+        "owner": "0x335a84956485E469d2531B64F4866d5e05a3E8Ee",
+        "beneficiary": "0x335a84956485E469d2531B64F4866d5e05a3E8Ee",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 101,
+        "owner": "0x87A6be3552386Cc5266A5596c88022D7d8F4Aa97",
+        "beneficiary": "0x87A6be3552386Cc5266A5596c88022D7d8F4Aa97",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 102,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x008D63fab8179Ee0aE2082Bb57C72ED0c61f990f",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 103,
+        "owner": "0xB837f25416C543aAF70cE61420411Bd967Fb663A",
+        "beneficiary": "0xB837f25416C543aAF70cE61420411Bd967Fb663A",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 104,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xdB585820d3B56dBE452b2D7774E7852DBD0976Ea",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 105,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x2e95Cce02790edc1CDC617A8D31899998A25676E",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 106,
+        "owner": "0xFD6e86cf9AECA787CFFB198BCA859d459a44a847",
+        "beneficiary": "0xFD6e86cf9AECA787CFFB198BCA859d459a44a847",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 107,
+        "owner": "0xE033080A0486898Af493fd8430Ef33aa64C417b5",
+        "beneficiary": "0xE033080A0486898Af493fd8430Ef33aa64C417b5",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 108,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xc0B8De19A8b4C6796dA3f1c2082A8850ff4e8518",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 109,
+        "owner": "0x860993DCB240bD1e60F29F1887164F15FfB6a049",
+        "beneficiary": "0x860993DCB240bD1e60F29F1887164F15FfB6a049",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 110,
+        "owner": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "beneficiary": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 111,
+        "owner": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "beneficiary": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 112,
+        "owner": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "beneficiary": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 113,
+        "owner": "0xafD68C85fC1F88C3fe7D48fcA127f6273951237F",
+        "beneficiary": "0xafD68C85fC1F88C3fe7D48fcA127f6273951237F",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 114,
+        "owner": "0x2a171aa5CE4f1E7774733A692804F5Da52A896d3",
+        "beneficiary": "0x2a171aa5CE4f1E7774733A692804F5Da52A896d3",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 115,
+        "owner": "0xAbE0cDD036456Fcc1B64d1DdB7aA3bdF7d5B98B1",
+        "beneficiary": "0xAbE0cDD036456Fcc1B64d1DdB7aA3bdF7d5B98B1",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 116,
+        "owner": "0x03eE34d2a0999670349994F1781e0f147aEE47e6",
+        "beneficiary": "0x03eE34d2a0999670349994F1781e0f147aEE47e6",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 117,
+        "owner": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "beneficiary": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 118,
+        "owner": "0xe720deb20b85C48794b5820700d9206F9eb3F2B6",
+        "beneficiary": "0xe720deb20b85C48794b5820700d9206F9eb3F2B6",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 119,
+        "owner": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "beneficiary": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 120,
+        "owner": "0xDa77FC9DAFAa95DE16D47859D62b733a58365E45",
+        "beneficiary": "0xDa77FC9DAFAa95DE16D47859D62b733a58365E45",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 121,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xF086049c5cBE85DF041C79E8877b92D614A8F854",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 122,
+        "owner": "0x8Ec425A78833BF28449c789dd6EACD34c7baAD98",
+        "beneficiary": "0x8Ec425A78833BF28449c789dd6EACD34c7baAD98",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 123,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xdB585820d3B56dBE452b2D7774E7852DBD0976Ea",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 124,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x77d81e99968476522B09798F0942b01B632619F9",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 125,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xC5F90d879cA3cCa4269c70fA175121974aB27D33",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 126,
+        "owner": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "beneficiary": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 127,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x455Bb421821FBb1aDaF0eFB591020643A8c8a11E",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 128,
+        "owner": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "beneficiary": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 129,
+        "owner": "0x27BA9A4a46F8d011B10FD4c6416bB5543A3Fe7dD",
+        "beneficiary": "0x27BA9A4a46F8d011B10FD4c6416bB5543A3Fe7dD",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 130,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xB1388DDCd9595E4c6Ed9118A237AE56edD4D0142",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 131,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x016bE7A3ef30ceC10F87eCb8C794FE8533C9dddf",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 132,
+        "owner": "0x8fb2451BAC4F1F0c62D633CEfbDA57c73F05fCA9",
+        "beneficiary": "0x8fb2451BAC4F1F0c62D633CEfbDA57c73F05fCA9",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 133,
+        "owner": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "beneficiary": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 134,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xdB585820d3B56dBE452b2D7774E7852DBD0976Ea",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 135,
+        "owner": "0x64bdDab5f13A99576FcA6747f0aA205422C5F708",
+        "beneficiary": "0x64bdDab5f13A99576FcA6747f0aA205422C5F708",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 136,
+        "owner": "0xe8E4eB3Fe4A93b45DdC4589AbdD8f8e006D0533D",
+        "beneficiary": "0xe8E4eB3Fe4A93b45DdC4589AbdD8f8e006D0533D",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 137,
+        "owner": "0xF95041C70812BE0d598145dd24422b621F6Bb863",
+        "beneficiary": "0xF95041C70812BE0d598145dd24422b621F6Bb863",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 138,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x76f91DCf2aA8F542A5Baf8AC9B06B074d80D4015",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 139,
+        "owner": "0xE24c322324e02cDd9989D3092bE456e92cDe53F2",
+        "beneficiary": "0xE24c322324e02cDd9989D3092bE456e92cDe53F2",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 140,
+        "owner": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "beneficiary": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 141,
+        "owner": "0xaf4b91a02cEfcEa9304f8c16A74e4586Ac619B9D",
+        "beneficiary": "0xaf4b91a02cEfcEa9304f8c16A74e4586Ac619B9D",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 142,
+        "owner": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "beneficiary": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 143,
+        "owner": "0x37624e81F8676dDb0BC6E7Ef828f8aa13332B18f",
+        "beneficiary": "0x37624e81F8676dDb0BC6E7Ef828f8aa13332B18f",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 144,
+        "owner": "0x0241dfB8165Dac08d3F78cb931cf46D110f16733",
+        "beneficiary": "0x0241dfB8165Dac08d3F78cb931cf46D110f16733",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 145,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x1DD4EdDe2F3893627f41a20E0D9745C522B31b68",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 146,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x0feaf114F65361DfaAF981F2662E3843376dAcbe",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 147,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x28d86c07C05Da3A6695deb89d164EFAeD8e28eFF",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 148,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x968f716FBb708a9d975235aaf973f8f7B157Ee1d",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 149,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x4aC4a33101aBB2AA21167De2b881429B915818a3",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 150,
+        "owner": "0x820168E15Ec0C16cD757257399519429eB2B31cc",
+        "beneficiary": "0x820168E15Ec0C16cD757257399519429eB2B31cc",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 151,
+        "owner": "0x48a057b9a7681c5AF381e8383629c81B3958b036",
+        "beneficiary": "0x48a057b9a7681c5AF381e8383629c81B3958b036",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 152,
+        "owner": "0x7da7186e67195e38B8f4D3003751410103374784",
+        "beneficiary": "0x7da7186e67195e38B8f4D3003751410103374784",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 153,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xaFe157149D170cE1D6c6ECd1c225C695E2713290",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 154,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x2bC3F4A4E38a28EaF2B683A9DA47dce7b38ad157",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 155,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xdB585820d3B56dBE452b2D7774E7852DBD0976Ea",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 156,
+        "owner": "0xB75d93f81ae4bB88D3E7A7cc3792D1aA3688e768",
+        "beneficiary": "0xB75d93f81ae4bB88D3E7A7cc3792D1aA3688e768",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 157,
+        "owner": "0x87d411BB593218F43b1c76278769A0F5d1b740f4",
+        "beneficiary": "0x87d411BB593218F43b1c76278769A0F5d1b740f4",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 158,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x85Ca3B6CbC22177F89fc9AC1eE1E6B2D6b4f99D4",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 159,
+        "owner": "0xFb554ea1b498d0a0045b0d528077Affd1CC5c46a",
+        "beneficiary": "0xFb554ea1b498d0a0045b0d528077Affd1CC5c46a",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 160,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xFc7af206E1a69F7886fB47fF8e1287fFf4406D03",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 161,
+        "owner": "0xE24c322324e02cDd9989D3092bE456e92cDe53F2",
+        "beneficiary": "0xE24c322324e02cDd9989D3092bE456e92cDe53F2",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 162,
+        "owner": "0xc091C59489ACcDe50DE0ccdf1eDDF6C5e5257678",
+        "beneficiary": "0xc091C59489ACcDe50DE0ccdf1eDDF6C5e5257678",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 163,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xEeEB6Df907a1D109B392B7b2fc51553d91Cd574C",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 164,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xdB585820d3B56dBE452b2D7774E7852DBD0976Ea",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 165,
+        "owner": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "beneficiary": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 166,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xe295E230c842BeF131C9E1fbA8bb83b155d7587e",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 167,
+        "owner": "0x55F3422138e9FED0Bd81351bFf66c882550002E8",
+        "beneficiary": "0x55F3422138e9FED0Bd81351bFf66c882550002E8",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 168,
+        "owner": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "beneficiary": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 169,
+        "owner": "0xaf4b91a02cEfcEa9304f8c16A74e4586Ac619B9D",
+        "beneficiary": "0xaf4b91a02cEfcEa9304f8c16A74e4586Ac619B9D",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 170,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x1b4BF2d6Fc540d243C96C11d808E97522FEE6E1A",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 171,
+        "owner": "0xA9F9c0eAc673E215e7F18B38531b24c6B8EdF861",
+        "beneficiary": "0xA9F9c0eAc673E215e7F18B38531b24c6B8EdF861",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 172,
+        "owner": "0xb96fa7fAbfCC165Debf487FdcF2831De14062882",
+        "beneficiary": "0xb96fa7fAbfCC165Debf487FdcF2831De14062882",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 173,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x81bE7f475e335693Fda594ABC8b42Bb0D873F9a0",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 174,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x0feaf114F65361DfaAF981F2662E3843376dAcbe",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 175,
+        "owner": "0x73379cf499f113A04A7FBaA7a24286cA66093f0E",
+        "beneficiary": "0x73379cf499f113A04A7FBaA7a24286cA66093f0E",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 176,
+        "owner": "0x2825CDb4A71AC7942DA889f1ff72d536a8209343",
+        "beneficiary": "0x2825CDb4A71AC7942DA889f1ff72d536a8209343",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 177,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x05EA3308fD3F2Fd8262f0E04AFD2a5c3fFebD9bF",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 178,
+        "owner": "0x55F3422138e9FED0Bd81351bFf66c882550002E8",
+        "beneficiary": "0x55F3422138e9FED0Bd81351bFf66c882550002E8",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 179,
+        "owner": "0x7da7186e67195e38B8f4D3003751410103374784",
+        "beneficiary": "0x7da7186e67195e38B8f4D3003751410103374784",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 180,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x52a26EF0049ED90BEEA066DC32EB890783ec7DDd",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 181,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x07068a3659AD5898205e4a6d1dC2Cea1B97a53D3",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 182,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x0feaf114F65361DfaAF981F2662E3843376dAcbe",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 183,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x28c1c00e6E27A2A9a93C1BBEA01396A372aB1A2d",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 184,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xeA081e8dF182479BC5F5340Ae1a4714177750EfB",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 185,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x0feaf114F65361DfaAF981F2662E3843376dAcbe",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 186,
+        "owner": "0x860993DCB240bD1e60F29F1887164F15FfB6a049",
+        "beneficiary": "0x860993DCB240bD1e60F29F1887164F15FfB6a049",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 187,
+        "owner": "0xe9CBFcA83B85AC4ebfeE0b2cd1b76f6B3bC7094E",
+        "beneficiary": "0xe9CBFcA83B85AC4ebfeE0b2cd1b76f6B3bC7094E",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 188,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xF9E2287139eed14465682FF6eD2c7999d87705c4",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 189,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x2E8ab5137a2D1fb0886f005c43ce25F2A881E6Af",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 190,
+        "owner": "0x8d037F49B089988f7950e00A4c9a94F9d379af7f",
+        "beneficiary": "0x8d037F49B089988f7950e00A4c9a94F9d379af7f",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 191,
+        "owner": "0xE35e2E4624987575dFD263b124a3999E180b8b89",
+        "beneficiary": "0xE35e2E4624987575dFD263b124a3999E180b8b89",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 192,
+        "owner": "0x03eE34d2a0999670349994F1781e0f147aEE47e6",
+        "beneficiary": "0x03eE34d2a0999670349994F1781e0f147aEE47e6",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 193,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x0feaf114F65361DfaAF981F2662E3843376dAcbe",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 194,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xdB585820d3B56dBE452b2D7774E7852DBD0976Ea",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 195,
+        "owner": "0x9E593E2d2cd11d75336728BB85976a983DA21187",
+        "beneficiary": "0x9E593E2d2cd11d75336728BB85976a983DA21187",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 196,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x2062D0Aee9c25537C00aA06b0A63D07C7C90A8fe",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 197,
+        "owner": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "beneficiary": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 198,
+        "owner": "0x52349a2C4eA4e4B94ada3D75C9d3A318C024706f",
+        "beneficiary": "0x52349a2C4eA4e4B94ada3D75C9d3A318C024706f",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 199,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x43935328eE596669722be9763061da5068badEC9",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 200,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xcd98e5dF9D359085bA42F635a520BCbc087f8062",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 201,
+        "owner": "0xE35e2E4624987575dFD263b124a3999E180b8b89",
+        "beneficiary": "0xE35e2E4624987575dFD263b124a3999E180b8b89",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 202,
+        "owner": "0x65e635f88D7c0D522FEe14d504a0CF5bbCB94140",
+        "beneficiary": "0x65e635f88D7c0D522FEe14d504a0CF5bbCB94140",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 203,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x0feaf114F65361DfaAF981F2662E3843376dAcbe",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 204,
+        "owner": "0xFD6e86cf9AECA787CFFB198BCA859d459a44a847",
+        "beneficiary": "0xFD6e86cf9AECA787CFFB198BCA859d459a44a847",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 205,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xC5F90d879cA3cCa4269c70fA175121974aB27D33",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 206,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xeA081e8dF182479BC5F5340Ae1a4714177750EfB",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 207,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x341dc87aEA980a54B3B28EF952F2A0BF9685f66a",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 208,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x77DA0BD38461d28eE1299dbA1343288Cbe113Ab3",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 209,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x4aC4a33101aBB2AA21167De2b881429B915818a3",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 210,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x21605b0669bA6DF9830372FADF7dDCC843bBC3cd",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 211,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x28c1c00e6E27A2A9a93C1BBEA01396A372aB1A2d",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 212,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x3E8D3CBCC30A5ae702Ac5D9537992b154151E93b",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 213,
+        "owner": "0x7B8a6e7777793614F27799199E32E80F03d18dBe",
+        "beneficiary": "0x7B8a6e7777793614F27799199E32E80F03d18dBe",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 214,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x0feaf114F65361DfaAF981F2662E3843376dAcbe",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 215,
+        "owner": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "beneficiary": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 216,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xeA081e8dF182479BC5F5340Ae1a4714177750EfB",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 217,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x968f716FBb708a9d975235aaf973f8f7B157Ee1d",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 218,
+        "owner": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "beneficiary": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 219,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xbAcCf99713309efA472C1bBd675169107c00c71b",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 220,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x81bE7f475e335693Fda594ABC8b42Bb0D873F9a0",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 221,
+        "owner": "0x295cAfD5b0b0B432b681Be5e990f79E91Ffca3dC",
+        "beneficiary": "0x295cAfD5b0b0B432b681Be5e990f79E91Ffca3dC",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 222,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xC8321F89491e4FA445BB57cF8a361743343b2dd5",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 223,
+        "owner": "0x643A38b81428e82552499317Da758ee7F75197b7",
+        "beneficiary": "0x643A38b81428e82552499317Da758ee7F75197b7",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 224,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x83538b6e4294F994e9AE2683f198221cA125A492",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 225,
+        "owner": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "beneficiary": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 226,
+        "owner": "0xc552d3E5295a1d11eA55877aEEA395b532f351cb",
+        "beneficiary": "0xc552d3E5295a1d11eA55877aEEA395b532f351cb",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 227,
+        "owner": "0x7da7186e67195e38B8f4D3003751410103374784",
+        "beneficiary": "0x7da7186e67195e38B8f4D3003751410103374784",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 228,
+        "owner": "0x7B8a6e7777793614F27799199E32E80F03d18dBe",
+        "beneficiary": "0x7B8a6e7777793614F27799199E32E80F03d18dBe",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 229,
+        "owner": "0xA9F9c0eAc673E215e7F18B38531b24c6B8EdF861",
+        "beneficiary": "0xA9F9c0eAc673E215e7F18B38531b24c6B8EdF861",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 230,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x3cA779B6DCA46E41fB96B585CbFc25FF88223509",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 231,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x11E77Ac66AE0be81E94b7365c59c32aa4342FA54",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 232,
+        "owner": "0x7B8a6e7777793614F27799199E32E80F03d18dBe",
+        "beneficiary": "0x7B8a6e7777793614F27799199E32E80F03d18dBe",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 233,
+        "owner": "0x820168E15Ec0C16cD757257399519429eB2B31cc",
+        "beneficiary": "0x820168E15Ec0C16cD757257399519429eB2B31cc",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 234,
+        "owner": "0x860993DCB240bD1e60F29F1887164F15FfB6a049",
+        "beneficiary": "0x860993DCB240bD1e60F29F1887164F15FfB6a049",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 235,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x0feaf114F65361DfaAF981F2662E3843376dAcbe",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 236,
+        "owner": "0x9C32849D7f1149E064cFE4EC5A531146BD580fD9",
+        "beneficiary": "0x9C32849D7f1149E064cFE4EC5A531146BD580fD9",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 237,
+        "owner": "0xDE7d461D120ABf61Dbf2f036aE904eFd48D864E9",
+        "beneficiary": "0xDE7d461D120ABf61Dbf2f036aE904eFd48D864E9",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 238,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xE1ad3F9626Fb9d6322827d374CA1daF6CDAb22E4",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 239,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xC752549fca52D75a282A33DC7b8bf53586a79b3A",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 240,
+        "owner": "0xFdF06e3E004B57223DCf5eb0efEd06128131bd05",
+        "beneficiary": "0xFdF06e3E004B57223DCf5eb0efEd06128131bd05",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 241,
+        "owner": "0x135413bB6883D648C4fAf261e7D3a9e6EDE740a1",
+        "beneficiary": "0x135413bB6883D648C4fAf261e7D3a9e6EDE740a1",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 242,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xD408c1C4fCC67eC119737351498F14ccdC887C49",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 243,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xdB585820d3B56dBE452b2D7774E7852DBD0976Ea",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 244,
+        "owner": "0x48D652666D7DE8E506ce1575BFE6a171aB76e709",
+        "beneficiary": "0x48D652666D7DE8E506ce1575BFE6a171aB76e709",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 245,
+        "owner": "0x9Ff8978201bCf41c20ebC483a8654e9dFB34C3b5",
+        "beneficiary": "0x9Ff8978201bCf41c20ebC483a8654e9dFB34C3b5",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 246,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x81bE7f475e335693Fda594ABC8b42Bb0D873F9a0",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 247,
+        "owner": "0x8923cdff38a43d1fd59d323C35b900047e431BAC",
+        "beneficiary": "0x8923cdff38a43d1fd59d323C35b900047e431BAC",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 248,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x28c1c00e6E27A2A9a93C1BBEA01396A372aB1A2d",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 249,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x7B7bbd8E061F8a72D9FF79eA351F9E33De0969B3",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 250,
+        "owner": "0x7da7186e67195e38B8f4D3003751410103374784",
+        "beneficiary": "0x7da7186e67195e38B8f4D3003751410103374784",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 251,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xc0B8De19A8b4C6796dA3f1c2082A8850ff4e8518",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 252,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x968f716FBb708a9d975235aaf973f8f7B157Ee1d",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 253,
+        "owner": "0xc5f4B84f925c0643DF6D4af7FD89E4c1426D82c2",
+        "beneficiary": "0xc5f4B84f925c0643DF6D4af7FD89E4c1426D82c2",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 254,
+        "owner": "0xbE4EbA417999C7269c6D631eaEf82Ad3f2bCdd9e",
+        "beneficiary": "0xbE4EbA417999C7269c6D631eaEf82Ad3f2bCdd9e",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 255,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x0feaf114F65361DfaAF981F2662E3843376dAcbe",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 256,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x76f91DCf2aA8F542A5Baf8AC9B06B074d80D4015",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 257,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x0feaf114F65361DfaAF981F2662E3843376dAcbe",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 258,
+        "owner": "0x7f4d6C4BA570A6033907b9c0a653032F6c2Fdd31",
+        "beneficiary": "0x7f4d6C4BA570A6033907b9c0a653032F6c2Fdd31",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 259,
+        "owner": "0x7F399712203ff818c37E322Cff9158684Fe11b09",
+        "beneficiary": "0x7F399712203ff818c37E322Cff9158684Fe11b09",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 260,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xE7999a668743af8eEcDD6D80b13bd32797e3F9a5",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 261,
+        "owner": "0xe744544F50FC6BDe59CD8eD3e656487d4791357F",
+        "beneficiary": "0xe744544F50FC6BDe59CD8eD3e656487d4791357F",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 262,
+        "owner": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "beneficiary": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 263,
+        "owner": "0x8fb2451BAC4F1F0c62D633CEfbDA57c73F05fCA9",
+        "beneficiary": "0x8fb2451BAC4F1F0c62D633CEfbDA57c73F05fCA9",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 264,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xF9E2287139eed14465682FF6eD2c7999d87705c4",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 265,
+        "owner": "0x7da7186e67195e38B8f4D3003751410103374784",
+        "beneficiary": "0x7da7186e67195e38B8f4D3003751410103374784",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 266,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xdB585820d3B56dBE452b2D7774E7852DBD0976Ea",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 267,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xdB585820d3B56dBE452b2D7774E7852DBD0976Ea",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 268,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xE250c7540ffC0fE802A3cd1ba907addE9D410051",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 269,
+        "owner": "0xd753C8bcDbEF62893Fe2656C4b448f980F3CFD7C",
+        "beneficiary": "0xd753C8bcDbEF62893Fe2656C4b448f980F3CFD7C",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 270,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xdB585820d3B56dBE452b2D7774E7852DBD0976Ea",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 271,
+        "owner": "0x1cb66FC8891E1758964c891BC17a9a8CdD25E7B0",
+        "beneficiary": "0x1cb66FC8891E1758964c891BC17a9a8CdD25E7B0",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 272,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x561eA17AE80fA5DC46a4e2c831263482C0949591",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 273,
+        "owner": "0x4F48541CAec567985121E510d9b140ce2b36a187",
+        "beneficiary": "0x4F48541CAec567985121E510d9b140ce2b36a187",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 274,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xdB585820d3B56dBE452b2D7774E7852DBD0976Ea",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 275,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x494e338b715b786D574CdC833471f3719BdF2D24",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 276,
+        "owner": "0xDE7d461D120ABf61Dbf2f036aE904eFd48D864E9",
+        "beneficiary": "0xDE7d461D120ABf61Dbf2f036aE904eFd48D864E9",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 277,
+        "owner": "0xFD6e86cf9AECA787CFFB198BCA859d459a44a847",
+        "beneficiary": "0xFD6e86cf9AECA787CFFB198BCA859d459a44a847",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 278,
+        "owner": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "beneficiary": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 279,
+        "owner": "0x38C2E64cF14281F5120DE238C12082d425dC07C4",
+        "beneficiary": "0x38C2E64cF14281F5120DE238C12082d425dC07C4",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 280,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x7665C425b5F3A0249644024bB32a179Ab2D5E0a2",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 281,
+        "owner": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "beneficiary": "0xc4210bfD73206c3208ae1F0854ee146Ed8F1271B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 282,
+        "owner": "0x148cDb4CC0691a79fEF105890817587Cc62eA908",
+        "beneficiary": "0x148cDb4CC0691a79fEF105890817587Cc62eA908",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 283,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x0feaf114F65361DfaAF981F2662E3843376dAcbe",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 284,
+        "owner": "0x860993DCB240bD1e60F29F1887164F15FfB6a049",
+        "beneficiary": "0x860993DCB240bD1e60F29F1887164F15FfB6a049",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 285,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x76f91DCf2aA8F542A5Baf8AC9B06B074d80D4015",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 286,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xda714BFaFBC2b139bF6e91D9809FAc5A104a9798",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 287,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x28c1c00e6E27A2A9a93C1BBEA01396A372aB1A2d",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 288,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x7665C425b5F3A0249644024bB32a179Ab2D5E0a2",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 289,
+        "owner": "0xe8E4eB3Fe4A93b45DdC4589AbdD8f8e006D0533D",
+        "beneficiary": "0xe8E4eB3Fe4A93b45DdC4589AbdD8f8e006D0533D",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 290,
+        "owner": "0x7ca83Da48606CBFBbf12AF0294dFB7433C0393Ea",
+        "beneficiary": "0x7ca83Da48606CBFBbf12AF0294dFB7433C0393Ea",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 291,
+        "owner": "0xFF60c38F0343a8b8De07c9770266764c452A368F",
+        "beneficiary": "0xFF60c38F0343a8b8De07c9770266764c452A368F",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 292,
+        "owner": "0x009eB11685f57D98C996082B58E5c5db147a357b",
+        "beneficiary": "0x009eB11685f57D98C996082B58E5c5db147a357b",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 293,
+        "owner": "0x08fBB59b0B546aDe04111ecb44C428DABDB1631B",
+        "beneficiary": "0x08fBB59b0B546aDe04111ecb44C428DABDB1631B",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 294,
+        "owner": "0xFC3bf72e5353CA8C419DFF08db344F92C232D437",
+        "beneficiary": "0xFC3bf72e5353CA8C419DFF08db344F92C232D437",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 295,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x28c1c00e6E27A2A9a93C1BBEA01396A372aB1A2d",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 296,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0x1886F0139b6bbE917b2b3C7E42a8155694EF7B48",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 297,
+        "owner": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "beneficiary": "0xdB585820d3B56dBE452b2D7774E7852DBD0976Ea",
+        "staked": true,
+        "listing": null
+      },
+      {
+        "id": 298,
+        "owner": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "beneficiary": "0x85B1f16A7CC5Da288dc796Ae8300099C3Ac9c66c",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 299,
+        "owner": "0xf8eb08d42f0d0da3035ae1c605F472A757c3BF8F",
+        "beneficiary": "0xf8eb08d42f0d0da3035ae1c605F472A757c3BF8F",
+        "staked": false,
+        "listing": null
+      },
+      {
+        "id": 300,
+        "owner": "0xD142c0cC2f707b808060BcBcEb903f6d6D62952f",
+        "beneficiary": "0xD142c0cC2f707b808060BcBcEb903f6d6D62952f",
+        "staked": false,
+        "listing": null
+      }
+    ],
+    "staking": {
+      "vault": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+      "runtimeHash": "0xe9609b506e4fb7529489bead6fb1212a3751c585ca01e7ea8162eaf717284ee2",
+      "startEpoch": "5",
+      "epochStart": "1791240095",
+      "startsAt": "1791672095",
+      "active": true,
+      "open": true,
+      "epoch": "6",
+      "totalStaked": "134",
+      "epochPot": "897992960490781993",
+      "totalAccrued": "2281880782901517633",
+      "totalPaid": "1383887822410735615",
+      "totalReturnedToOwner": "0",
+      "legacyRewardsReceived": "67417456185891110",
+      "personal": null
+    },
+    "blockNumber": "26177091",
+    "blockHash": "0x18633ff29295af4e79224807f7a5125ad54a669199de21310e6166f8aa89cfee",
+    "observedAt": "2026-10-12T14:48:54.365Z",
+    "account": null
+  },
+  "identities": [
+    {
+      "id": 1,
+      "name": "Curious Thinker"
+    },
+    {
+      "id": 2,
+      "name": "Unimpressed Thinker"
+    },
+    {
+      "id": 3,
+      "name": "Watchful Thinker"
+    },
+    {
+      "id": 4,
+      "name": "Dreaming Thinker"
+    },
+    {
+      "id": 5,
+      "name": "Side-eye Thinker"
+    },
+    {
+      "id": 6,
+      "name": "Delighted Thinker"
+    },
+    {
+      "id": 7,
+      "name": "Plotting Thinker"
+    },
+    {
+      "id": 8,
+      "name": "Drowsy Thinker"
+    },
+    {
+      "id": 9,
+      "name": "Startled Thinker"
+    },
+    {
+      "id": 10,
+      "name": "Knowing Thinker"
+    },
+    {
+      "id": 11,
+      "name": "Curious Melt"
+    },
+    {
+      "id": 12,
+      "name": "Unimpressed Melt"
+    },
+    {
+      "id": 13,
+      "name": "Watchful Melt"
+    },
+    {
+      "id": 14,
+      "name": "Dreaming Melt"
+    },
+    {
+      "id": 15,
+      "name": "Side-eye Melt"
+    },
+    {
+      "id": 16,
+      "name": "Delighted Melt"
+    },
+    {
+      "id": 17,
+      "name": "Plotting Melt"
+    },
+    {
+      "id": 18,
+      "name": "Drowsy Melt"
+    },
+    {
+      "id": 19,
+      "name": "Startled Melt"
+    },
+    {
+      "id": 20,
+      "name": "Knowing Melt"
+    },
+    {
+      "id": 21,
+      "name": "Curious Crown"
+    },
+    {
+      "id": 22,
+      "name": "Unimpressed Crown"
+    },
+    {
+      "id": 23,
+      "name": "Watchful Crown"
+    },
+    {
+      "id": 24,
+      "name": "Dreaming Crown"
+    },
+    {
+      "id": 25,
+      "name": "Side-eye Crown"
+    },
+    {
+      "id": 26,
+      "name": "Delighted Crown"
+    },
+    {
+      "id": 27,
+      "name": "Plotting Crown"
+    },
+    {
+      "id": 28,
+      "name": "Drowsy Crown"
+    },
+    {
+      "id": 29,
+      "name": "Startled Crown"
+    },
+    {
+      "id": 30,
+      "name": "Knowing Crown"
+    },
+    {
+      "id": 31,
+      "name": "Curious Knot"
+    },
+    {
+      "id": 32,
+      "name": "Unimpressed Knot"
+    },
+    {
+      "id": 33,
+      "name": "Watchful Knot"
+    },
+    {
+      "id": 34,
+      "name": "Dreaming Knot"
+    },
+    {
+      "id": 35,
+      "name": "Side-eye Knot"
+    },
+    {
+      "id": 36,
+      "name": "Delighted Knot"
+    },
+    {
+      "id": 37,
+      "name": "Plotting Knot"
+    },
+    {
+      "id": 38,
+      "name": "Drowsy Knot"
+    },
+    {
+      "id": 39,
+      "name": "Startled Knot"
+    },
+    {
+      "id": 40,
+      "name": "Knowing Knot"
+    },
+    {
+      "id": 41,
+      "name": "Curious Flare"
+    },
+    {
+      "id": 42,
+      "name": "Unimpressed Flare"
+    },
+    {
+      "id": 43,
+      "name": "Watchful Flare"
+    },
+    {
+      "id": 44,
+      "name": "Dreaming Flare"
+    },
+    {
+      "id": 45,
+      "name": "Side-eye Flare"
+    },
+    {
+      "id": 46,
+      "name": "Delighted Flare"
+    },
+    {
+      "id": 47,
+      "name": "Plotting Flare"
+    },
+    {
+      "id": 48,
+      "name": "Drowsy Flare"
+    },
+    {
+      "id": 49,
+      "name": "Startled Flare"
+    },
+    {
+      "id": 50,
+      "name": "Knowing Flare"
+    },
+    {
+      "id": 51,
+      "name": "Curious Crescent"
+    },
+    {
+      "id": 52,
+      "name": "Unimpressed Crescent"
+    },
+    {
+      "id": 53,
+      "name": "Watchful Crescent"
+    },
+    {
+      "id": 54,
+      "name": "Dreaming Crescent"
+    },
+    {
+      "id": 55,
+      "name": "Side-eye Crescent"
+    },
+    {
+      "id": 56,
+      "name": "Delighted Crescent"
+    },
+    {
+      "id": 57,
+      "name": "Plotting Crescent"
+    },
+    {
+      "id": 58,
+      "name": "Drowsy Crescent"
+    },
+    {
+      "id": 59,
+      "name": "Startled Crescent"
+    },
+    {
+      "id": 60,
+      "name": "Knowing Crescent"
+    },
+    {
+      "id": 61,
+      "name": "Curious Drop"
+    },
+    {
+      "id": 62,
+      "name": "Unimpressed Drop"
+    },
+    {
+      "id": 63,
+      "name": "Watchful Drop"
+    },
+    {
+      "id": 64,
+      "name": "Dreaming Drop"
+    },
+    {
+      "id": 65,
+      "name": "Side-eye Drop"
+    },
+    {
+      "id": 66,
+      "name": "Delighted Drop"
+    },
+    {
+      "id": 67,
+      "name": "Plotting Drop"
+    },
+    {
+      "id": 68,
+      "name": "Drowsy Drop"
+    },
+    {
+      "id": 69,
+      "name": "Startled Drop"
+    },
+    {
+      "id": 70,
+      "name": "Knowing Drop"
+    },
+    {
+      "id": 71,
+      "name": "Curious Balloon"
+    },
+    {
+      "id": 72,
+      "name": "Unimpressed Balloon"
+    },
+    {
+      "id": 73,
+      "name": "Watchful Balloon"
+    },
+    {
+      "id": 74,
+      "name": "Dreaming Balloon"
+    },
+    {
+      "id": 75,
+      "name": "Side-eye Balloon"
+    },
+    {
+      "id": 76,
+      "name": "Delighted Balloon"
+    },
+    {
+      "id": 77,
+      "name": "Plotting Balloon"
+    },
+    {
+      "id": 78,
+      "name": "Drowsy Balloon"
+    },
+    {
+      "id": 79,
+      "name": "Startled Balloon"
+    },
+    {
+      "id": 80,
+      "name": "Knowing Balloon"
+    },
+    {
+      "id": 81,
+      "name": "Curious Star"
+    },
+    {
+      "id": 82,
+      "name": "Unimpressed Star"
+    },
+    {
+      "id": 83,
+      "name": "Watchful Star"
+    },
+    {
+      "id": 84,
+      "name": "Dreaming Star"
+    },
+    {
+      "id": 85,
+      "name": "Side-eye Star"
+    },
+    {
+      "id": 86,
+      "name": "Delighted Star"
+    },
+    {
+      "id": 87,
+      "name": "Plotting Star"
+    },
+    {
+      "id": 88,
+      "name": "Drowsy Star"
+    },
+    {
+      "id": 89,
+      "name": "Startled Star"
+    },
+    {
+      "id": 90,
+      "name": "Knowing Star"
+    },
+    {
+      "id": 91,
+      "name": "Curious Wave"
+    },
+    {
+      "id": 92,
+      "name": "Unimpressed Wave"
+    },
+    {
+      "id": 93,
+      "name": "Watchful Wave"
+    },
+    {
+      "id": 94,
+      "name": "Dreaming Wave"
+    },
+    {
+      "id": 95,
+      "name": "Side-eye Wave"
+    },
+    {
+      "id": 96,
+      "name": "Delighted Wave"
+    },
+    {
+      "id": 97,
+      "name": "Plotting Wave"
+    },
+    {
+      "id": 98,
+      "name": "Drowsy Wave"
+    },
+    {
+      "id": 99,
+      "name": "Startled Wave"
+    },
+    {
+      "id": 100,
+      "name": "Knowing Wave"
+    },
+    {
+      "id": 101,
+      "name": "Curious Mushroom"
+    },
+    {
+      "id": 102,
+      "name": "Unimpressed Mushroom"
+    },
+    {
+      "id": 103,
+      "name": "Watchful Mushroom"
+    },
+    {
+      "id": 104,
+      "name": "Dreaming Mushroom"
+    },
+    {
+      "id": 105,
+      "name": "Side-eye Mushroom"
+    },
+    {
+      "id": 106,
+      "name": "Delighted Mushroom"
+    },
+    {
+      "id": 107,
+      "name": "Plotting Mushroom"
+    },
+    {
+      "id": 108,
+      "name": "Drowsy Mushroom"
+    },
+    {
+      "id": 109,
+      "name": "Startled Mushroom"
+    },
+    {
+      "id": 110,
+      "name": "Knowing Mushroom"
+    },
+    {
+      "id": 111,
+      "name": "Curious Manta"
+    },
+    {
+      "id": 112,
+      "name": "Unimpressed Manta"
+    },
+    {
+      "id": 113,
+      "name": "Watchful Manta"
+    },
+    {
+      "id": 114,
+      "name": "Dreaming Manta"
+    },
+    {
+      "id": 115,
+      "name": "Side-eye Manta"
+    },
+    {
+      "id": 116,
+      "name": "Delighted Manta"
+    },
+    {
+      "id": 117,
+      "name": "Plotting Manta"
+    },
+    {
+      "id": 118,
+      "name": "Drowsy Manta"
+    },
+    {
+      "id": 119,
+      "name": "Startled Manta"
+    },
+    {
+      "id": 120,
+      "name": "Knowing Manta"
+    },
+    {
+      "id": 121,
+      "name": "Curious Pebble"
+    },
+    {
+      "id": 122,
+      "name": "Unimpressed Pebble"
+    },
+    {
+      "id": 123,
+      "name": "Watchful Pebble"
+    },
+    {
+      "id": 124,
+      "name": "Dreaming Pebble"
+    },
+    {
+      "id": 125,
+      "name": "Side-eye Pebble"
+    },
+    {
+      "id": 126,
+      "name": "Delighted Pebble"
+    },
+    {
+      "id": 127,
+      "name": "Plotting Pebble"
+    },
+    {
+      "id": 128,
+      "name": "Drowsy Pebble"
+    },
+    {
+      "id": 129,
+      "name": "Startled Pebble"
+    },
+    {
+      "id": 130,
+      "name": "Knowing Pebble"
+    },
+    {
+      "id": 131,
+      "name": "Curious Lotus"
+    },
+    {
+      "id": 132,
+      "name": "Unimpressed Lotus"
+    },
+    {
+      "id": 133,
+      "name": "Watchful Lotus"
+    },
+    {
+      "id": 134,
+      "name": "Dreaming Lotus"
+    },
+    {
+      "id": 135,
+      "name": "Side-eye Lotus"
+    },
+    {
+      "id": 136,
+      "name": "Delighted Lotus"
+    },
+    {
+      "id": 137,
+      "name": "Plotting Lotus"
+    },
+    {
+      "id": 138,
+      "name": "Drowsy Lotus"
+    },
+    {
+      "id": 139,
+      "name": "Startled Lotus"
+    },
+    {
+      "id": 140,
+      "name": "Knowing Lotus"
+    },
+    {
+      "id": 141,
+      "name": "Curious Shell"
+    },
+    {
+      "id": 142,
+      "name": "Unimpressed Shell"
+    },
+    {
+      "id": 143,
+      "name": "Watchful Shell"
+    },
+    {
+      "id": 144,
+      "name": "Dreaming Shell"
+    },
+    {
+      "id": 145,
+      "name": "Side-eye Shell"
+    },
+    {
+      "id": 146,
+      "name": "Delighted Shell"
+    },
+    {
+      "id": 147,
+      "name": "Plotting Shell"
+    },
+    {
+      "id": 148,
+      "name": "Drowsy Shell"
+    },
+    {
+      "id": 149,
+      "name": "Startled Shell"
+    },
+    {
+      "id": 150,
+      "name": "Knowing Shell"
+    },
+    {
+      "id": 151,
+      "name": "Curious Cape"
+    },
+    {
+      "id": 152,
+      "name": "Unimpressed Cape"
+    },
+    {
+      "id": 153,
+      "name": "Watchful Cape"
+    },
+    {
+      "id": 154,
+      "name": "Dreaming Cape"
+    },
+    {
+      "id": 155,
+      "name": "Side-eye Cape"
+    },
+    {
+      "id": 156,
+      "name": "Delighted Cape"
+    },
+    {
+      "id": 157,
+      "name": "Plotting Cape"
+    },
+    {
+      "id": 158,
+      "name": "Drowsy Cape"
+    },
+    {
+      "id": 159,
+      "name": "Startled Cape"
+    },
+    {
+      "id": 160,
+      "name": "Knowing Cape"
+    },
+    {
+      "id": 161,
+      "name": "Curious Antenna"
+    },
+    {
+      "id": 162,
+      "name": "Unimpressed Antenna"
+    },
+    {
+      "id": 163,
+      "name": "Watchful Antenna"
+    },
+    {
+      "id": 164,
+      "name": "Dreaming Antenna"
+    },
+    {
+      "id": 165,
+      "name": "Side-eye Antenna"
+    },
+    {
+      "id": 166,
+      "name": "Delighted Antenna"
+    },
+    {
+      "id": 167,
+      "name": "Plotting Antenna"
+    },
+    {
+      "id": 168,
+      "name": "Drowsy Antenna"
+    },
+    {
+      "id": 169,
+      "name": "Startled Antenna"
+    },
+    {
+      "id": 170,
+      "name": "Knowing Antenna"
+    },
+    {
+      "id": 171,
+      "name": "Curious Cloud"
+    },
+    {
+      "id": 172,
+      "name": "Unimpressed Cloud"
+    },
+    {
+      "id": 173,
+      "name": "Watchful Cloud"
+    },
+    {
+      "id": 174,
+      "name": "Dreaming Cloud"
+    },
+    {
+      "id": 175,
+      "name": "Side-eye Cloud"
+    },
+    {
+      "id": 176,
+      "name": "Delighted Cloud"
+    },
+    {
+      "id": 177,
+      "name": "Plotting Cloud"
+    },
+    {
+      "id": 178,
+      "name": "Drowsy Cloud"
+    },
+    {
+      "id": 179,
+      "name": "Startled Cloud"
+    },
+    {
+      "id": 180,
+      "name": "Knowing Cloud"
+    },
+    {
+      "id": 181,
+      "name": "Curious Comet"
+    },
+    {
+      "id": 182,
+      "name": "Unimpressed Comet"
+    },
+    {
+      "id": 183,
+      "name": "Watchful Comet"
+    },
+    {
+      "id": 184,
+      "name": "Dreaming Comet"
+    },
+    {
+      "id": 185,
+      "name": "Side-eye Comet"
+    },
+    {
+      "id": 186,
+      "name": "Delighted Comet"
+    },
+    {
+      "id": 187,
+      "name": "Plotting Comet"
+    },
+    {
+      "id": 188,
+      "name": "Drowsy Comet"
+    },
+    {
+      "id": 189,
+      "name": "Startled Comet"
+    },
+    {
+      "id": 190,
+      "name": "Knowing Comet"
+    },
+    {
+      "id": 191,
+      "name": "Curious Perch"
+    },
+    {
+      "id": 192,
+      "name": "Unimpressed Perch"
+    },
+    {
+      "id": 193,
+      "name": "Watchful Perch"
+    },
+    {
+      "id": 194,
+      "name": "Dreaming Perch"
+    },
+    {
+      "id": 195,
+      "name": "Side-eye Perch"
+    },
+    {
+      "id": 196,
+      "name": "Delighted Perch"
+    },
+    {
+      "id": 197,
+      "name": "Plotting Perch"
+    },
+    {
+      "id": 198,
+      "name": "Drowsy Perch"
+    },
+    {
+      "id": 199,
+      "name": "Startled Perch"
+    },
+    {
+      "id": 200,
+      "name": "Knowing Perch"
+    },
+    {
+      "id": 201,
+      "name": "Curious Anchor"
+    },
+    {
+      "id": 202,
+      "name": "Unimpressed Anchor"
+    },
+    {
+      "id": 203,
+      "name": "Watchful Anchor"
+    },
+    {
+      "id": 204,
+      "name": "Dreaming Anchor"
+    },
+    {
+      "id": 205,
+      "name": "Side-eye Anchor"
+    },
+    {
+      "id": 206,
+      "name": "Delighted Anchor"
+    },
+    {
+      "id": 207,
+      "name": "Plotting Anchor"
+    },
+    {
+      "id": 208,
+      "name": "Drowsy Anchor"
+    },
+    {
+      "id": 209,
+      "name": "Startled Anchor"
+    },
+    {
+      "id": 210,
+      "name": "Knowing Anchor"
+    },
+    {
+      "id": 211,
+      "name": "Curious Fold"
+    },
+    {
+      "id": 212,
+      "name": "Unimpressed Fold"
+    },
+    {
+      "id": 213,
+      "name": "Watchful Fold"
+    },
+    {
+      "id": 214,
+      "name": "Dreaming Fold"
+    },
+    {
+      "id": 215,
+      "name": "Side-eye Fold"
+    },
+    {
+      "id": 216,
+      "name": "Delighted Fold"
+    },
+    {
+      "id": 217,
+      "name": "Plotting Fold"
+    },
+    {
+      "id": 218,
+      "name": "Drowsy Fold"
+    },
+    {
+      "id": 219,
+      "name": "Startled Fold"
+    },
+    {
+      "id": 220,
+      "name": "Knowing Fold"
+    },
+    {
+      "id": 221,
+      "name": "Curious Cobra"
+    },
+    {
+      "id": 222,
+      "name": "Unimpressed Cobra"
+    },
+    {
+      "id": 223,
+      "name": "Watchful Cobra"
+    },
+    {
+      "id": 224,
+      "name": "Dreaming Cobra"
+    },
+    {
+      "id": 225,
+      "name": "Side-eye Cobra"
+    },
+    {
+      "id": 226,
+      "name": "Delighted Cobra"
+    },
+    {
+      "id": 227,
+      "name": "Plotting Cobra"
+    },
+    {
+      "id": 228,
+      "name": "Drowsy Cobra"
+    },
+    {
+      "id": 229,
+      "name": "Startled Cobra"
+    },
+    {
+      "id": 230,
+      "name": "Knowing Cobra"
+    },
+    {
+      "id": 231,
+      "name": "Curious Boulder"
+    },
+    {
+      "id": 232,
+      "name": "Unimpressed Boulder"
+    },
+    {
+      "id": 233,
+      "name": "Watchful Boulder"
+    },
+    {
+      "id": 234,
+      "name": "Dreaming Boulder"
+    },
+    {
+      "id": 235,
+      "name": "Side-eye Boulder"
+    },
+    {
+      "id": 236,
+      "name": "Delighted Boulder"
+    },
+    {
+      "id": 237,
+      "name": "Plotting Boulder"
+    },
+    {
+      "id": 238,
+      "name": "Drowsy Boulder"
+    },
+    {
+      "id": 239,
+      "name": "Startled Boulder"
+    },
+    {
+      "id": 240,
+      "name": "Knowing Boulder"
+    },
+    {
+      "id": 241,
+      "name": "Curious Wisp"
+    },
+    {
+      "id": 242,
+      "name": "Unimpressed Wisp"
+    },
+    {
+      "id": 243,
+      "name": "Watchful Wisp"
+    },
+    {
+      "id": 244,
+      "name": "Dreaming Wisp"
+    },
+    {
+      "id": 245,
+      "name": "Side-eye Wisp"
+    },
+    {
+      "id": 246,
+      "name": "Delighted Wisp"
+    },
+    {
+      "id": 247,
+      "name": "Plotting Wisp"
+    },
+    {
+      "id": 248,
+      "name": "Drowsy Wisp"
+    },
+    {
+      "id": 249,
+      "name": "Startled Wisp"
+    },
+    {
+      "id": 250,
+      "name": "Knowing Wisp"
+    },
+    {
+      "id": 251,
+      "name": "Curious Fan"
+    },
+    {
+      "id": 252,
+      "name": "Unimpressed Fan"
+    },
+    {
+      "id": 253,
+      "name": "Watchful Fan"
+    },
+    {
+      "id": 254,
+      "name": "Dreaming Fan"
+    },
+    {
+      "id": 255,
+      "name": "Side-eye Fan"
+    },
+    {
+      "id": 256,
+      "name": "Delighted Fan"
+    },
+    {
+      "id": 257,
+      "name": "Plotting Fan"
+    },
+    {
+      "id": 258,
+      "name": "Drowsy Fan"
+    },
+    {
+      "id": 259,
+      "name": "Startled Fan"
+    },
+    {
+      "id": 260,
+      "name": "Knowing Fan"
+    },
+    {
+      "id": 261,
+      "name": "Curious Orbit"
+    },
+    {
+      "id": 262,
+      "name": "Unimpressed Orbit"
+    },
+    {
+      "id": 263,
+      "name": "Watchful Orbit"
+    },
+    {
+      "id": 264,
+      "name": "Dreaming Orbit"
+    },
+    {
+      "id": 265,
+      "name": "Side-eye Orbit"
+    },
+    {
+      "id": 266,
+      "name": "Delighted Orbit"
+    },
+    {
+      "id": 267,
+      "name": "Plotting Orbit"
+    },
+    {
+      "id": 268,
+      "name": "Drowsy Orbit"
+    },
+    {
+      "id": 269,
+      "name": "Startled Orbit"
+    },
+    {
+      "id": 270,
+      "name": "Knowing Orbit"
+    },
+    {
+      "id": 271,
+      "name": "Curious Bell"
+    },
+    {
+      "id": 272,
+      "name": "Unimpressed Bell"
+    },
+    {
+      "id": 273,
+      "name": "Watchful Bell"
+    },
+    {
+      "id": 274,
+      "name": "Dreaming Bell"
+    },
+    {
+      "id": 275,
+      "name": "Side-eye Bell"
+    },
+    {
+      "id": 276,
+      "name": "Delighted Bell"
+    },
+    {
+      "id": 277,
+      "name": "Plotting Bell"
+    },
+    {
+      "id": 278,
+      "name": "Drowsy Bell"
+    },
+    {
+      "id": 279,
+      "name": "Startled Bell"
+    },
+    {
+      "id": 280,
+      "name": "Knowing Bell"
+    },
+    {
+      "id": 281,
+      "name": "Curious Tangle"
+    },
+    {
+      "id": 282,
+      "name": "Unimpressed Tangle"
+    },
+    {
+      "id": 283,
+      "name": "Watchful Tangle"
+    },
+    {
+      "id": 284,
+      "name": "Dreaming Tangle"
+    },
+    {
+      "id": 285,
+      "name": "Side-eye Tangle"
+    },
+    {
+      "id": 286,
+      "name": "Delighted Tangle"
+    },
+    {
+      "id": 287,
+      "name": "Plotting Tangle"
+    },
+    {
+      "id": 288,
+      "name": "Drowsy Tangle"
+    },
+    {
+      "id": 289,
+      "name": "Startled Tangle"
+    },
+    {
+      "id": 290,
+      "name": "Knowing Tangle"
+    },
+    {
+      "id": 291,
+      "name": "Curious Sprout"
+    },
+    {
+      "id": 292,
+      "name": "Unimpressed Sprout"
+    },
+    {
+      "id": 293,
+      "name": "Watchful Sprout"
+    },
+    {
+      "id": 294,
+      "name": "Dreaming Sprout"
+    },
+    {
+      "id": 295,
+      "name": "Side-eye Sprout"
+    },
+    {
+      "id": 296,
+      "name": "Delighted Sprout"
+    },
+    {
+      "id": 297,
+      "name": "Plotting Sprout"
+    },
+    {
+      "id": 298,
+      "name": "Drowsy Sprout"
+    },
+    {
+      "id": 299,
+      "name": "Startled Sprout"
+    },
+    {
+      "id": 300,
+      "name": "Knowing Sprout"
+    }
+  ],
+  "feeState": {
+    "schemaVersion": 1,
+    "chainId": 1,
+    "token": "0x1b54E762aa34CF6E28E9C082F2848e28E45DA6b8",
+    "hook": "0x37Bfb8AC7C960E558657871D41Ca70E07e7DbfFf",
+    "implementation": "0x19143522eab522bdd1ef0084223434c3de8fee5d",
+    "rewardBoost": {
+      "active": false,
+      "affectsFees": false,
+      "multiplier": 1,
+      "startsAt": "2026-10-09T11:12:23Z",
+      "endsAt": "2026-10-10T11:12:23Z"
+    },
+    "lpRewards": {
+      "destination": "0xb2304d3de407398de441b147e2c64c7c48daf44e",
+      "totalLiquidity": "4350297760082916431300",
+      "participating": true,
+      "allocationPips": 2000,
+      "emptyParticipationDestination": "project_owner",
+      "ownerBasePips": 13000,
+      "emptyOwnerPips": 15000
+    },
+    "nftStaking": {
+      "active": true,
+      "destination": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+      "startsAt": "2026-10-10T22:41:35Z",
+      "totalStaked": "134",
+      "participating": true,
+      "allocationPips": 3500,
+      "emptyParticipationDestination": "project_owner"
+    },
+    "processing": {
+      "nftRewards": true,
+      "combinedBuybacks": true,
+      "separateLiquidity": false,
+      "lpRewards": true,
+      "historicalLiquidity": true,
+      "arenaRetired": true,
+      "privacyRetired": true,
+      "marketWaveWindowSeconds": null
+    },
+    "fees": {
+      "unit": "parts_per_million_of_gross_ETH",
+      "burn": 1500,
+      "liquidity": 2000,
+      "liquidityDestination": "staked_lp_rewards",
+      "wallet": 13000,
+      "fomo": 0,
+      "nft": 3500,
+      "platform": 3000,
+      "project": 20000,
+      "total": 23000
+    },
+    "weather": {
+      "active": false,
+      "mode": "not_active",
+      "observedAt": null,
+      "validUntil": null,
+      "station": "London Heathrow (EGLL)",
+      "provider": "IMD",
+      "maximumAgeSeconds": 21600,
+      "source": "https://aviationweather.gov/api/data/metar?ids=EGLL&format=json"
+    },
+    "blockNumber": 26177091,
+    "blockHash": "0x18633ff29295af4e79224807f7a5125ad54a669199de21310e6166f8aa89cfee",
+    "blockTime": "2026-10-12T14:48:47Z",
+    "observedAt": "2026-10-12T14:48:56.681Z",
+    "refreshSeconds": 60
+  },
+  "stats": {
+    "token": {
+      "schema": 1,
+      "asset": "token",
+      "blockNumber": "26177311",
+      "blockHash": "0xa3ad456bbbe919c9da371219beb56d6ded3362499a16c4bdb42656dcce4f443f",
+      "blockTimestamp": "1791819179",
+      "observedAt": "2026-10-12T15:32:59Z",
+      "vault": "0xb2304d3de407398de441b147e2c64c7c48daf44e",
+      "active": true,
+      "periodEndsAt": "2026-10-12T22:41:35Z",
+      "metrics": {
+        "liquidity": "4350297760082916431300",
+        "positions": "16",
+        "activeStakers": "10",
+        "eth": "10504767453457846933",
+        "claus": "1801571589778779987021186",
+        "totalPaid": "1408542119948909404",
+        "currentPool": "553701091587368709"
+      }
+    },
+    "nft": {
+      "schema": 1,
+      "asset": "nft",
+      "blockNumber": "26177312",
+      "blockHash": "0x9d09ba21adcaaa8335a41ceb2bab391fb8d3a7d387d485da069826350cce8031",
+      "blockTimestamp": "1791819191",
+      "observedAt": "2026-10-12T15:33:11Z",
+      "vault": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+      "active": true,
+      "periodEndsAt": "2026-10-12T22:41:35Z",
+      "metrics": {
+        "staked": "137",
+        "supply": "300",
+        "shareBps": "4566",
+        "activeStakers": "71",
+        "totalPaid": "1383887822410735615",
+        "currentPool": "968976910277895406"
+      }
+    }
+  },
+  "history": {
+    "token": {
+      "7": {
+        "schema": 1,
+        "asset": "token",
+        "days": 7,
+        "vault": "0xb2304d3de407398de441b147e2c64c7c48daf44e",
+        "blockNumber": "26177311",
+        "observedAt": "2026-10-12T15:32:59Z",
+        "startedAt": "2026-10-10T17:44:23Z",
+        "scope": "staking-vault",
+        "interval": "hourly",
+        "points": [
+          {
+            "timestamp": "1791654263",
+            "blockNumber": "26163607",
+            "staked": "0",
+            "totalPaid": "0",
+            "eth": "0",
+            "claus": "0"
+          },
+          {
+            "timestamp": "1791655199",
+            "blockNumber": "26163685",
+            "staked": "0",
+            "totalPaid": "0",
+            "eth": "0",
+            "claus": "0"
+          },
+          {
+            "timestamp": "1791658799",
+            "blockNumber": "26163984",
+            "staked": "0",
+            "totalPaid": "0",
+            "eth": "0",
+            "claus": "0"
+          },
+          {
+            "timestamp": "1791662399",
+            "blockNumber": "26164283",
+            "staked": "7673910515815147222285",
+            "totalPaid": "0",
+            "eth": "18171561927144690639",
+            "claus": "3240717712700855824457069"
+          },
+          {
+            "timestamp": "1791665999",
+            "blockNumber": "26164583",
+            "staked": "7748550591927941599269",
+            "totalPaid": "0",
+            "eth": "18320808909145077728",
+            "claus": "3277149855850363823244828"
+          },
+          {
+            "timestamp": "1791669599",
+            "blockNumber": "26164883",
+            "staked": "7748550591927941599269",
+            "totalPaid": "0",
+            "eth": "16725641141609289237",
+            "claus": "3589700135697756985096465"
+          },
+          {
+            "timestamp": "1791673199",
+            "blockNumber": "26165182",
+            "staked": "9222243164879772461559",
+            "totalPaid": "127209754465775480",
+            "eth": "20890534568455815141",
+            "claus": "4071210754012714668438879"
+          },
+          {
+            "timestamp": "1791676799",
+            "blockNumber": "26165481",
+            "staked": "9557294033639943416433",
+            "totalPaid": "127209754465775480",
+            "eth": "21510567137387281709",
+            "claus": "4246371965092884639908267"
+          },
+          {
+            "timestamp": "1791680399",
+            "blockNumber": "26165779",
+            "staked": "9557294033639943416433",
+            "totalPaid": "127209754465775480",
+            "eth": "19495414431780735952",
+            "claus": "4685300205598469800125914"
+          },
+          {
+            "timestamp": "1791683999",
+            "blockNumber": "26166078",
+            "staked": "9557294033639943416433",
+            "totalPaid": "127209754465775480",
+            "eth": "20453646860212392521",
+            "claus": "4465798684689970995369279"
+          },
+          {
+            "timestamp": "1791687599",
+            "blockNumber": "26166377",
+            "staked": "9557294033639943416433",
+            "totalPaid": "127209754465775480",
+            "eth": "19121775202963396127",
+            "claus": "4776850908240671918543449"
+          },
+          {
+            "timestamp": "1791691199",
+            "blockNumber": "26166677",
+            "staked": "9659066176818720923192",
+            "totalPaid": "127209754465775480",
+            "eth": "19879365405923939199",
+            "claus": "4693185999808689625357935"
+          },
+          {
+            "timestamp": "1791694799",
+            "blockNumber": "26166975",
+            "staked": "9659066176818720923192",
+            "totalPaid": "127209754465775480",
+            "eth": "18487466027290670405",
+            "claus": "5046530404461066839875617"
+          },
+          {
+            "timestamp": "1791698399",
+            "blockNumber": "26167275",
+            "staked": "9994139019082376704453",
+            "totalPaid": "127209754465775480",
+            "eth": "19437494209053394826",
+            "claus": "5138667240668422405893583"
+          },
+          {
+            "timestamp": "1791701999",
+            "blockNumber": "26167574",
+            "staked": "9952431741183567227900",
+            "totalPaid": "127209754465775480",
+            "eth": "19744923335634466782",
+            "claus": "5016524798764702351577649"
+          },
+          {
+            "timestamp": "1791705599",
+            "blockNumber": "26167874",
+            "staked": "9952431741183567227900",
+            "totalPaid": "127209754465775480",
+            "eth": "19328982824910233495",
+            "claus": "5124475429470933640588036"
+          },
+          {
+            "timestamp": "1791709199",
+            "blockNumber": "26168171",
+            "staked": "9952431741183567227900",
+            "totalPaid": "127209754465775480",
+            "eth": "19810105234400070621",
+            "claus": "5000018747548961575833726"
+          },
+          {
+            "timestamp": "1791712799",
+            "blockNumber": "26168469",
+            "staked": "9312600647560211074746",
+            "totalPaid": "127209754465775480",
+            "eth": "19382054561856695191",
+            "claus": "4474475631268222113295332"
+          },
+          {
+            "timestamp": "1791716399",
+            "blockNumber": "26168768",
+            "staked": "9312600647560211074746",
+            "totalPaid": "127209754465775480",
+            "eth": "19476047127699377268",
+            "claus": "4452881544818035203634797"
+          },
+          {
+            "timestamp": "1791719999",
+            "blockNumber": "26169066",
+            "staked": "9312600647560211074746",
+            "totalPaid": "127209754465775480",
+            "eth": "19120658096306312458",
+            "claus": "4535645707596859252156873"
+          },
+          {
+            "timestamp": "1791723599",
+            "blockNumber": "26169365",
+            "staked": "9312600647560211074746",
+            "totalPaid": "127209754465775480",
+            "eth": "18024054772504165898",
+            "claus": "4811599382911208115643493"
+          },
+          {
+            "timestamp": "1791727199",
+            "blockNumber": "26169665",
+            "staked": "9312600647560211074746",
+            "totalPaid": "127209754465775480",
+            "eth": "19187763429838012301",
+            "claus": "4519783201312431942973153"
+          },
+          {
+            "timestamp": "1791730799",
+            "blockNumber": "26169965",
+            "staked": "9312600647560211074746",
+            "totalPaid": "127209754465775480",
+            "eth": "20121203494357927520",
+            "claus": "4310106542347568522542091"
+          },
+          {
+            "timestamp": "1791734399",
+            "blockNumber": "26170265",
+            "staked": "9521112737528344748428",
+            "totalPaid": "127209754465775480",
+            "eth": "20959351496368505590",
+            "claus": "4325114151381597690490876"
+          },
+          {
+            "timestamp": "1791737999",
+            "blockNumber": "26170562",
+            "staked": "9521112737528344748428",
+            "totalPaid": "127209754465775480",
+            "eth": "22079816857430065344",
+            "claus": "4105631325932822664865580"
+          },
+          {
+            "timestamp": "1791741599",
+            "blockNumber": "26170862",
+            "staked": "9617513225654064840883",
+            "totalPaid": "127209754465775480",
+            "eth": "21560681651478166186",
+            "claus": "4290057343307113632017164"
+          },
+          {
+            "timestamp": "1791745199",
+            "blockNumber": "26171162",
+            "staked": "9617513225654064840883",
+            "totalPaid": "127209754465775480",
+            "eth": "22970907608193596594",
+            "claus": "4026682890520087148097226"
+          },
+          {
+            "timestamp": "1791748799",
+            "blockNumber": "26171460",
+            "staked": "9420705587596193122964",
+            "totalPaid": "127209754465775480",
+            "eth": "22201549316749096269",
+            "claus": "3997454974964849596650890"
+          },
+          {
+            "timestamp": "1791752399",
+            "blockNumber": "26171759",
+            "staked": "9420705587596193122964",
+            "totalPaid": "127209754465775480",
+            "eth": "24072664118136601667",
+            "claus": "3686741664014709840250448"
+          },
+          {
+            "timestamp": "1791755999",
+            "blockNumber": "26172059",
+            "staked": "9420705587596193122964",
+            "totalPaid": "127209754465775480",
+            "eth": "22939862981563724593",
+            "claus": "3868797901691581853360281"
+          },
+          {
+            "timestamp": "1791759599",
+            "blockNumber": "26172358",
+            "staked": "9525301058441190329107",
+            "totalPaid": "127209754465775480",
+            "eth": "24914293793337352835",
+            "claus": "3641739196244225161692971"
+          },
+          {
+            "timestamp": "1791763199",
+            "blockNumber": "26172657",
+            "staked": "9495008441040719746126",
+            "totalPaid": "1408542119948909404",
+            "eth": "24396502252386649406",
+            "claus": "3695414382060234011746143"
+          },
+          {
+            "timestamp": "1791766799",
+            "blockNumber": "26172956",
+            "staked": "9507612049522654289759",
+            "totalPaid": "1408542119948909404",
+            "eth": "24045687017481957486",
+            "claus": "3759289007567495755012617"
+          },
+          {
+            "timestamp": "1791770399",
+            "blockNumber": "26173255",
+            "staked": "9507612049522654289759",
+            "totalPaid": "1408542119948909404",
+            "eth": "23974144758579575427",
+            "claus": "3770507260822266181466920"
+          },
+          {
+            "timestamp": "1791773999",
+            "blockNumber": "26173555",
+            "staked": "9507612049522654289759",
+            "totalPaid": "1408542119948909404",
+            "eth": "23121487308032501344",
+            "claus": "3909553294732249890107812"
+          },
+          {
+            "timestamp": "1791777599",
+            "blockNumber": "26173854",
+            "staked": "9557783277120741374983",
+            "totalPaid": "1408542119948909404",
+            "eth": "22807555272817521601",
+            "claus": "4005305263088982633609344"
+          },
+          {
+            "timestamp": "1791781199",
+            "blockNumber": "26174153",
+            "staked": "9557783277120741374983",
+            "totalPaid": "1408542119948909404",
+            "eth": "21569043143919097814",
+            "claus": "4235293172852839317376961"
+          },
+          {
+            "timestamp": "1791784799",
+            "blockNumber": "26174453",
+            "staked": "4282516452087759461449",
+            "totalPaid": "1408542119948909404",
+            "eth": "9560125489646767340",
+            "claus": "1918379333227765482789305"
+          },
+          {
+            "timestamp": "1791788399",
+            "blockNumber": "26174753",
+            "staked": "4282516452087759461449",
+            "totalPaid": "1408542119948909404",
+            "eth": "9838712916056562395",
+            "claus": "1864059589793695619809573"
+          },
+          {
+            "timestamp": "1791791999",
+            "blockNumber": "26175053",
+            "staked": "4282516452087759461449",
+            "totalPaid": "1408542119948909404",
+            "eth": "9957218180316745954",
+            "claus": "1841874590902950790433711"
+          },
+          {
+            "timestamp": "1791795599",
+            "blockNumber": "26175352",
+            "staked": "4282516452087759461449",
+            "totalPaid": "1408542119948909404",
+            "eth": "10115218228184380991",
+            "claus": "1813104448038610182144509"
+          },
+          {
+            "timestamp": "1791799199",
+            "blockNumber": "26175652",
+            "staked": "4377311393896959529703",
+            "totalPaid": "1408542119948909404",
+            "eth": "10326251743184014853",
+            "claus": "1855547929265575911530488"
+          },
+          {
+            "timestamp": "1791802799",
+            "blockNumber": "26175952",
+            "staked": "4400468987681003516524",
+            "totalPaid": "1408542119948909404",
+            "eth": "10418573969954073848",
+            "claus": "1858615907261983427731743"
+          },
+          {
+            "timestamp": "1791806399",
+            "blockNumber": "26176252",
+            "staked": "4400468987681003516524",
+            "totalPaid": "1408542119948909404",
+            "eth": "10391779771562881758",
+            "claus": "1863408168496048564535274"
+          },
+          {
+            "timestamp": "1791809999",
+            "blockNumber": "26176552",
+            "staked": "4400468987681003516524",
+            "totalPaid": "1408542119948909404",
+            "eth": "10198188363239380438",
+            "claus": "1898781099331587662092425"
+          },
+          {
+            "timestamp": "1791813599",
+            "blockNumber": "26176850",
+            "staked": "4400468987681003516524",
+            "totalPaid": "1408542119948909404",
+            "eth": "11247904840896825944",
+            "claus": "1721576381152805085797426"
+          },
+          {
+            "timestamp": "1791817199",
+            "blockNumber": "26177147",
+            "staked": "4350297760082916431300",
+            "totalPaid": "1408542119948909404",
+            "eth": "10902165838885599489",
+            "claus": "1735901919037119463480612"
+          },
+          {
+            "timestamp": "1791819179",
+            "blockNumber": "26177311",
+            "staked": "4350297760082916431300",
+            "totalPaid": "1408542119948909404",
+            "eth": "10504767453457846933",
+            "claus": "1801571589778779987021186"
+          }
+        ]
+      },
+      "30": {
+        "schema": 1,
+        "asset": "token",
+        "days": 30,
+        "vault": "0xb2304d3de407398de441b147e2c64c7c48daf44e",
+        "blockNumber": "26177312",
+        "observedAt": "2026-10-12T15:33:11Z",
+        "startedAt": "2026-10-10T17:44:23Z",
+        "scope": "staking-vault",
+        "interval": "hourly",
+        "points": [
+          {
+            "timestamp": "1791654263",
+            "blockNumber": "26163607",
+            "staked": "0",
+            "totalPaid": "0",
+            "eth": "0",
+            "claus": "0"
+          },
+          {
+            "timestamp": "1791655199",
+            "blockNumber": "26163685",
+            "staked": "0",
+            "totalPaid": "0",
+            "eth": "0",
+            "claus": "0"
+          },
+          {
+            "timestamp": "1791658799",
+            "blockNumber": "26163984",
+            "staked": "0",
+            "totalPaid": "0",
+            "eth": "0",
+            "claus": "0"
+          },
+          {
+            "timestamp": "1791662399",
+            "blockNumber": "26164283",
+            "staked": "7673910515815147222285",
+            "totalPaid": "0",
+            "eth": "18171561927144690639",
+            "claus": "3240717712700855824457069"
+          },
+          {
+            "timestamp": "1791665999",
+            "blockNumber": "26164583",
+            "staked": "7748550591927941599269",
+            "totalPaid": "0",
+            "eth": "18320808909145077728",
+            "claus": "3277149855850363823244828"
+          },
+          {
+            "timestamp": "1791669599",
+            "blockNumber": "26164883",
+            "staked": "7748550591927941599269",
+            "totalPaid": "0",
+            "eth": "16725641141609289237",
+            "claus": "3589700135697756985096465"
+          },
+          {
+            "timestamp": "1791673199",
+            "blockNumber": "26165182",
+            "staked": "9222243164879772461559",
+            "totalPaid": "127209754465775480",
+            "eth": "20890534568455815141",
+            "claus": "4071210754012714668438879"
+          },
+          {
+            "timestamp": "1791676799",
+            "blockNumber": "26165481",
+            "staked": "9557294033639943416433",
+            "totalPaid": "127209754465775480",
+            "eth": "21510567137387281709",
+            "claus": "4246371965092884639908267"
+          },
+          {
+            "timestamp": "1791680399",
+            "blockNumber": "26165779",
+            "staked": "9557294033639943416433",
+            "totalPaid": "127209754465775480",
+            "eth": "19495414431780735952",
+            "claus": "4685300205598469800125914"
+          },
+          {
+            "timestamp": "1791683999",
+            "blockNumber": "26166078",
+            "staked": "9557294033639943416433",
+            "totalPaid": "127209754465775480",
+            "eth": "20453646860212392521",
+            "claus": "4465798684689970995369279"
+          },
+          {
+            "timestamp": "1791687599",
+            "blockNumber": "26166377",
+            "staked": "9557294033639943416433",
+            "totalPaid": "127209754465775480",
+            "eth": "19121775202963396127",
+            "claus": "4776850908240671918543449"
+          },
+          {
+            "timestamp": "1791691199",
+            "blockNumber": "26166677",
+            "staked": "9659066176818720923192",
+            "totalPaid": "127209754465775480",
+            "eth": "19879365405923939199",
+            "claus": "4693185999808689625357935"
+          },
+          {
+            "timestamp": "1791694799",
+            "blockNumber": "26166975",
+            "staked": "9659066176818720923192",
+            "totalPaid": "127209754465775480",
+            "eth": "18487466027290670405",
+            "claus": "5046530404461066839875617"
+          },
+          {
+            "timestamp": "1791698399",
+            "blockNumber": "26167275",
+            "staked": "9994139019082376704453",
+            "totalPaid": "127209754465775480",
+            "eth": "19437494209053394826",
+            "claus": "5138667240668422405893583"
+          },
+          {
+            "timestamp": "1791701999",
+            "blockNumber": "26167574",
+            "staked": "9952431741183567227900",
+            "totalPaid": "127209754465775480",
+            "eth": "19744923335634466782",
+            "claus": "5016524798764702351577649"
+          },
+          {
+            "timestamp": "1791705599",
+            "blockNumber": "26167874",
+            "staked": "9952431741183567227900",
+            "totalPaid": "127209754465775480",
+            "eth": "19328982824910233495",
+            "claus": "5124475429470933640588036"
+          },
+          {
+            "timestamp": "1791709199",
+            "blockNumber": "26168171",
+            "staked": "9952431741183567227900",
+            "totalPaid": "127209754465775480",
+            "eth": "19810105234400070621",
+            "claus": "5000018747548961575833726"
+          },
+          {
+            "timestamp": "1791712799",
+            "blockNumber": "26168469",
+            "staked": "9312600647560211074746",
+            "totalPaid": "127209754465775480",
+            "eth": "19382054561856695191",
+            "claus": "4474475631268222113295332"
+          },
+          {
+            "timestamp": "1791716399",
+            "blockNumber": "26168768",
+            "staked": "9312600647560211074746",
+            "totalPaid": "127209754465775480",
+            "eth": "19476047127699377268",
+            "claus": "4452881544818035203634797"
+          },
+          {
+            "timestamp": "1791719999",
+            "blockNumber": "26169066",
+            "staked": "9312600647560211074746",
+            "totalPaid": "127209754465775480",
+            "eth": "19120658096306312458",
+            "claus": "4535645707596859252156873"
+          },
+          {
+            "timestamp": "1791723599",
+            "blockNumber": "26169365",
+            "staked": "9312600647560211074746",
+            "totalPaid": "127209754465775480",
+            "eth": "18024054772504165898",
+            "claus": "4811599382911208115643493"
+          },
+          {
+            "timestamp": "1791727199",
+            "blockNumber": "26169665",
+            "staked": "9312600647560211074746",
+            "totalPaid": "127209754465775480",
+            "eth": "19187763429838012301",
+            "claus": "4519783201312431942973153"
+          },
+          {
+            "timestamp": "1791730799",
+            "blockNumber": "26169965",
+            "staked": "9312600647560211074746",
+            "totalPaid": "127209754465775480",
+            "eth": "20121203494357927520",
+            "claus": "4310106542347568522542091"
+          },
+          {
+            "timestamp": "1791734399",
+            "blockNumber": "26170265",
+            "staked": "9521112737528344748428",
+            "totalPaid": "127209754465775480",
+            "eth": "20959351496368505590",
+            "claus": "4325114151381597690490876"
+          },
+          {
+            "timestamp": "1791737999",
+            "blockNumber": "26170562",
+            "staked": "9521112737528344748428",
+            "totalPaid": "127209754465775480",
+            "eth": "22079816857430065344",
+            "claus": "4105631325932822664865580"
+          },
+          {
+            "timestamp": "1791741599",
+            "blockNumber": "26170862",
+            "staked": "9617513225654064840883",
+            "totalPaid": "127209754465775480",
+            "eth": "21560681651478166186",
+            "claus": "4290057343307113632017164"
+          },
+          {
+            "timestamp": "1791745199",
+            "blockNumber": "26171162",
+            "staked": "9617513225654064840883",
+            "totalPaid": "127209754465775480",
+            "eth": "22970907608193596594",
+            "claus": "4026682890520087148097226"
+          },
+          {
+            "timestamp": "1791748799",
+            "blockNumber": "26171460",
+            "staked": "9420705587596193122964",
+            "totalPaid": "127209754465775480",
+            "eth": "22201549316749096269",
+            "claus": "3997454974964849596650890"
+          },
+          {
+            "timestamp": "1791752399",
+            "blockNumber": "26171759",
+            "staked": "9420705587596193122964",
+            "totalPaid": "127209754465775480",
+            "eth": "24072664118136601667",
+            "claus": "3686741664014709840250448"
+          },
+          {
+            "timestamp": "1791755999",
+            "blockNumber": "26172059",
+            "staked": "9420705587596193122964",
+            "totalPaid": "127209754465775480",
+            "eth": "22939862981563724593",
+            "claus": "3868797901691581853360281"
+          },
+          {
+            "timestamp": "1791759599",
+            "blockNumber": "26172358",
+            "staked": "9525301058441190329107",
+            "totalPaid": "127209754465775480",
+            "eth": "24914293793337352835",
+            "claus": "3641739196244225161692971"
+          },
+          {
+            "timestamp": "1791763199",
+            "blockNumber": "26172657",
+            "staked": "9495008441040719746126",
+            "totalPaid": "1408542119948909404",
+            "eth": "24396502252386649406",
+            "claus": "3695414382060234011746143"
+          },
+          {
+            "timestamp": "1791766799",
+            "blockNumber": "26172956",
+            "staked": "9507612049522654289759",
+            "totalPaid": "1408542119948909404",
+            "eth": "24045687017481957486",
+            "claus": "3759289007567495755012617"
+          },
+          {
+            "timestamp": "1791770399",
+            "blockNumber": "26173255",
+            "staked": "9507612049522654289759",
+            "totalPaid": "1408542119948909404",
+            "eth": "23974144758579575427",
+            "claus": "3770507260822266181466920"
+          },
+          {
+            "timestamp": "1791773999",
+            "blockNumber": "26173555",
+            "staked": "9507612049522654289759",
+            "totalPaid": "1408542119948909404",
+            "eth": "23121487308032501344",
+            "claus": "3909553294732249890107812"
+          },
+          {
+            "timestamp": "1791777599",
+            "blockNumber": "26173854",
+            "staked": "9557783277120741374983",
+            "totalPaid": "1408542119948909404",
+            "eth": "22807555272817521601",
+            "claus": "4005305263088982633609344"
+          },
+          {
+            "timestamp": "1791781199",
+            "blockNumber": "26174153",
+            "staked": "9557783277120741374983",
+            "totalPaid": "1408542119948909404",
+            "eth": "21569043143919097814",
+            "claus": "4235293172852839317376961"
+          },
+          {
+            "timestamp": "1791784799",
+            "blockNumber": "26174453",
+            "staked": "4282516452087759461449",
+            "totalPaid": "1408542119948909404",
+            "eth": "9560125489646767340",
+            "claus": "1918379333227765482789305"
+          },
+          {
+            "timestamp": "1791788399",
+            "blockNumber": "26174753",
+            "staked": "4282516452087759461449",
+            "totalPaid": "1408542119948909404",
+            "eth": "9838712916056562395",
+            "claus": "1864059589793695619809573"
+          },
+          {
+            "timestamp": "1791791999",
+            "blockNumber": "26175053",
+            "staked": "4282516452087759461449",
+            "totalPaid": "1408542119948909404",
+            "eth": "9957218180316745954",
+            "claus": "1841874590902950790433711"
+          },
+          {
+            "timestamp": "1791795599",
+            "blockNumber": "26175352",
+            "staked": "4282516452087759461449",
+            "totalPaid": "1408542119948909404",
+            "eth": "10115218228184380991",
+            "claus": "1813104448038610182144509"
+          },
+          {
+            "timestamp": "1791799199",
+            "blockNumber": "26175652",
+            "staked": "4377311393896959529703",
+            "totalPaid": "1408542119948909404",
+            "eth": "10326251743184014853",
+            "claus": "1855547929265575911530488"
+          },
+          {
+            "timestamp": "1791802799",
+            "blockNumber": "26175952",
+            "staked": "4400468987681003516524",
+            "totalPaid": "1408542119948909404",
+            "eth": "10418573969954073848",
+            "claus": "1858615907261983427731743"
+          },
+          {
+            "timestamp": "1791806399",
+            "blockNumber": "26176252",
+            "staked": "4400468987681003516524",
+            "totalPaid": "1408542119948909404",
+            "eth": "10391779771562881758",
+            "claus": "1863408168496048564535274"
+          },
+          {
+            "timestamp": "1791809999",
+            "blockNumber": "26176552",
+            "staked": "4400468987681003516524",
+            "totalPaid": "1408542119948909404",
+            "eth": "10198188363239380438",
+            "claus": "1898781099331587662092425"
+          },
+          {
+            "timestamp": "1791813599",
+            "blockNumber": "26176850",
+            "staked": "4400468987681003516524",
+            "totalPaid": "1408542119948909404",
+            "eth": "11247904840896825944",
+            "claus": "1721576381152805085797426"
+          },
+          {
+            "timestamp": "1791817199",
+            "blockNumber": "26177147",
+            "staked": "4350297760082916431300",
+            "totalPaid": "1408542119948909404",
+            "eth": "10902165838885599489",
+            "claus": "1735901919037119463480612"
+          },
+          {
+            "timestamp": "1791819191",
+            "blockNumber": "26177312",
+            "staked": "4350297760082916431300",
+            "totalPaid": "1408542119948909404",
+            "eth": "10504767453457846933",
+            "claus": "1801571589778779987021186"
+          }
+        ]
+      }
+    },
+    "nft": {
+      "7": {
+        "schema": 1,
+        "asset": "nft",
+        "days": 7,
+        "vault": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "blockNumber": "26177305",
+        "observedAt": "2026-10-12T15:31:47Z",
+        "startedAt": "2026-10-11T13:00:23Z",
+        "scope": "staking-vault",
+        "interval": "hourly",
+        "points": [
+          {
+            "timestamp": "1791723623",
+            "blockNumber": "26169367",
+            "staked": "0",
+            "totalPaid": "0"
+          },
+          {
+            "timestamp": "1791727199",
+            "blockNumber": "26169665",
+            "staked": "8",
+            "totalPaid": "0"
+          },
+          {
+            "timestamp": "1791730799",
+            "blockNumber": "26169965",
+            "staked": "16",
+            "totalPaid": "0"
+          },
+          {
+            "timestamp": "1791734399",
+            "blockNumber": "26170265",
+            "staked": "36",
+            "totalPaid": "0"
+          },
+          {
+            "timestamp": "1791737999",
+            "blockNumber": "26170562",
+            "staked": "46",
+            "totalPaid": "0"
+          },
+          {
+            "timestamp": "1791741599",
+            "blockNumber": "26170862",
+            "staked": "55",
+            "totalPaid": "0"
+          },
+          {
+            "timestamp": "1791745199",
+            "blockNumber": "26171162",
+            "staked": "66",
+            "totalPaid": "0"
+          },
+          {
+            "timestamp": "1791748799",
+            "blockNumber": "26171460",
+            "staked": "82",
+            "totalPaid": "0"
+          },
+          {
+            "timestamp": "1791752399",
+            "blockNumber": "26171759",
+            "staked": "84",
+            "totalPaid": "0"
+          },
+          {
+            "timestamp": "1791755999",
+            "blockNumber": "26172059",
+            "staked": "101",
+            "totalPaid": "0"
+          },
+          {
+            "timestamp": "1791759599",
+            "blockNumber": "26172358",
+            "staked": "104",
+            "totalPaid": "820720626298551467"
+          },
+          {
+            "timestamp": "1791763199",
+            "blockNumber": "26172657",
+            "staked": "113",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791766799",
+            "blockNumber": "26172956",
+            "staked": "114",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791770399",
+            "blockNumber": "26173255",
+            "staked": "118",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791773999",
+            "blockNumber": "26173555",
+            "staked": "120",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791777599",
+            "blockNumber": "26173854",
+            "staked": "120",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791781199",
+            "blockNumber": "26174153",
+            "staked": "120",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791784799",
+            "blockNumber": "26174453",
+            "staked": "121",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791788399",
+            "blockNumber": "26174753",
+            "staked": "121",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791791999",
+            "blockNumber": "26175053",
+            "staked": "121",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791795599",
+            "blockNumber": "26175352",
+            "staked": "122",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791799199",
+            "blockNumber": "26175652",
+            "staked": "121",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791802799",
+            "blockNumber": "26175952",
+            "staked": "138",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791806399",
+            "blockNumber": "26176252",
+            "staked": "138",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791809999",
+            "blockNumber": "26176552",
+            "staked": "137",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791813599",
+            "blockNumber": "26176850",
+            "staked": "137",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791817199",
+            "blockNumber": "26177147",
+            "staked": "132",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791819107",
+            "blockNumber": "26177305",
+            "staked": "137",
+            "totalPaid": "1383887822410735615"
+          }
+        ]
+      },
+      "30": {
+        "schema": 1,
+        "asset": "nft",
+        "days": 30,
+        "vault": "0x4e5916428452891E1deb59d162c20266ED08CAD4",
+        "blockNumber": "26177293",
+        "observedAt": "2026-10-12T15:29:23Z",
+        "startedAt": "2026-10-11T13:00:23Z",
+        "scope": "staking-vault",
+        "interval": "hourly",
+        "points": [
+          {
+            "timestamp": "1791723623",
+            "blockNumber": "26169367",
+            "staked": "0",
+            "totalPaid": "0"
+          },
+          {
+            "timestamp": "1791727199",
+            "blockNumber": "26169665",
+            "staked": "8",
+            "totalPaid": "0"
+          },
+          {
+            "timestamp": "1791730799",
+            "blockNumber": "26169965",
+            "staked": "16",
+            "totalPaid": "0"
+          },
+          {
+            "timestamp": "1791734399",
+            "blockNumber": "26170265",
+            "staked": "36",
+            "totalPaid": "0"
+          },
+          {
+            "timestamp": "1791737999",
+            "blockNumber": "26170562",
+            "staked": "46",
+            "totalPaid": "0"
+          },
+          {
+            "timestamp": "1791741599",
+            "blockNumber": "26170862",
+            "staked": "55",
+            "totalPaid": "0"
+          },
+          {
+            "timestamp": "1791745199",
+            "blockNumber": "26171162",
+            "staked": "66",
+            "totalPaid": "0"
+          },
+          {
+            "timestamp": "1791748799",
+            "blockNumber": "26171460",
+            "staked": "82",
+            "totalPaid": "0"
+          },
+          {
+            "timestamp": "1791752399",
+            "blockNumber": "26171759",
+            "staked": "84",
+            "totalPaid": "0"
+          },
+          {
+            "timestamp": "1791755999",
+            "blockNumber": "26172059",
+            "staked": "101",
+            "totalPaid": "0"
+          },
+          {
+            "timestamp": "1791759599",
+            "blockNumber": "26172358",
+            "staked": "104",
+            "totalPaid": "820720626298551467"
+          },
+          {
+            "timestamp": "1791763199",
+            "blockNumber": "26172657",
+            "staked": "113",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791766799",
+            "blockNumber": "26172956",
+            "staked": "114",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791770399",
+            "blockNumber": "26173255",
+            "staked": "118",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791773999",
+            "blockNumber": "26173555",
+            "staked": "120",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791777599",
+            "blockNumber": "26173854",
+            "staked": "120",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791781199",
+            "blockNumber": "26174153",
+            "staked": "120",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791784799",
+            "blockNumber": "26174453",
+            "staked": "121",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791788399",
+            "blockNumber": "26174753",
+            "staked": "121",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791791999",
+            "blockNumber": "26175053",
+            "staked": "121",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791795599",
+            "blockNumber": "26175352",
+            "staked": "122",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791799199",
+            "blockNumber": "26175652",
+            "staked": "121",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791802799",
+            "blockNumber": "26175952",
+            "staked": "138",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791806399",
+            "blockNumber": "26176252",
+            "staked": "138",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791809999",
+            "blockNumber": "26176552",
+            "staked": "137",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791813599",
+            "blockNumber": "26176850",
+            "staked": "137",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791817199",
+            "blockNumber": "26177147",
+            "staked": "132",
+            "totalPaid": "1383887822410735615"
+          },
+          {
+            "timestamp": "1791818963",
+            "blockNumber": "26177293",
+            "staked": "135",
+            "totalPaid": "1383887822410735615"
+          }
+        ]
+      }
+    }
+  },
+  "references": [
+    "https://mobbin.com/screens/e2a6b808-5fbf-4141-a471-cfb9a0815de6",
+    "https://mobbin.com/screens/5301e144-9d4d-4fbd-a223-1334348f2a5a"
+  ]
+}

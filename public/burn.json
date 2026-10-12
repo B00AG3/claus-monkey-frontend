@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "chainId": 1,
+  "token": "0x1b54E762aa34CF6E28E9C082F2848e28E45DA6b8",
+  "hook": "0x37Bfb8AC7C960E558657871D41Ca70E07e7DbfFf",
+  "decimals": 18,
+  "measurement": "initial_supply_minus_total_supply",
+  "includesDirectBurns": true,
+  "initialSupply": "1000000000000000000000000000",
+  "totalSupply": "994245584335735073145529010",
+  "burned": "5754415664264926854470990",
+  "blockNumber": 26177089,
+  "blockHash": "0x8f857ac8918e88586f4c6e38990c0967011bd1b1c97a2c13cbc9d2a07edad3b6",
+  "blockTime": "2026-10-12T14:48:23.000Z",
+  "observedAt": "2026-10-12T14:48:56.593Z",
+  "refreshSeconds": 120
+}
